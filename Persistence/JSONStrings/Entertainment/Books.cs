@@ -1,0 +1,514 @@
+namespace Persistence.JSONStrings.Entertainment
+{
+  public partial class EntertainmentJson
+  {
+    public static string Books = @"
+      [
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'Who wrote &quot;Harry Potter&quot;?',
+          'correct_answer': 'J.K. Rowling',
+          'incorrect_answers': ['J.R.R. Tolkien', 'Terry Pratchett', 'Daniel Radcliffe']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'George Orwell wrote this book, which is often considered a statement on government oversight.',
+          'correct_answer': '1984',
+          'incorrect_answers': ['The Old Man and the Sea', 'Catcher and the Rye', 'To Kill a Mockingbird']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'Which famous book is sub-titled &#039;The Modern Prometheus&#039;?',
+          'correct_answer': 'Frankenstein',
+          'incorrect_answers': [
+            'Dracula',
+            'The Strange Case of Dr. Jekyll and Mr. Hyde ',
+            'The Legend of Sleepy Hollow'
+          ]
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'What was the name of Captain Nemo&#039;s submarine in &quot;20,000 Leagues Under the Sea&quot;?',
+          'correct_answer': 'The Nautilus',
+          'incorrect_answers': ['The Neptune', 'The Poseidon  ', 'The Atlantis']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'Which of the following is the world&#039;s best-selling book?',
+          'correct_answer': 'The Lord of the Rings',
+          'incorrect_answers': [
+            'The Little Prince',
+            'Harry Potter and the Philosopher&#039;s Stone',
+            'The Da Vinci Code'
+          ]
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': '&quot;Green Eggs And Ham&quot; is a book by which author?',
+          'correct_answer': 'Dr. Seuss',
+          'incorrect_answers': ['Beatrix Potter', 'Roald Dahl', 'A.A. Milne']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'Which famous spy novelist wrote the childrens&#039; story &quot;Chitty-Chitty-Bang-Bang&quot;?',
+          'correct_answer': 'Ian Fleming',
+          'incorrect_answers': ['Joseph Conrad', 'John Buchan', 'Graham Greene']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'How many Harry Potter books are there?',
+          'correct_answer': '7',
+          'incorrect_answers': ['8', '5', '6']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'Under what pseudonym did Stephen King publish five novels between 1977 and 1984?',
+          'correct_answer': 'Richard Bachman',
+          'incorrect_answers': ['J. D. Robb', 'Mark Twain', 'Lewis Carroll']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'What&#039;s Harry Potter&#039;s dad&#039;s name?',
+          'correct_answer': 'James Potter',
+          'incorrect_answers': ['Joey Potter', 'Frank Potter', 'Hairy Potter Sr.']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?',
+          'correct_answer': 'John Green',
+          'incorrect_answers': ['Stephenie Meyer', 'Suzanne Collins', 'Stephen Chbosky']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'Who was the author of the 1954 novel, &quot;Lord of the Flies&quot;?',
+          'correct_answer': 'William Golding',
+          'incorrect_answers': ['Stephen King', 'F. Scott Fitzgerald', 'Hunter Fox']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'What is the name of the three headed dog in Harry Potter and the Sorcerer&#039;s Stone?',
+          'correct_answer': 'Fluffy',
+          'incorrect_answers': ['Spike', 'Poofy', 'Spot']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?',
+          'correct_answer': 'Holden Caulfield',
+          'incorrect_answers': ['Fletcher Christian', 'Jay Gatsby', 'Randall Flagg']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?',
+          'correct_answer': 'A Study in Scarlet',
+          'incorrect_answers': ['The Sign of the Four', 'A Case of Identity', 'The Doings of Raffles Haw']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?',
+          'correct_answer': 'A Clash of Kings',
+          'incorrect_answers': ['A Dance with Dragons', 'A Storm of Swords', 'A Feast for Crows']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'Which is NOT a book in the Harry Potter Series?',
+          'correct_answer': 'The House Elf',
+          'incorrect_answers': [
+            'The Chamber of Secrets',
+            'The Prisoner of Azkaban',
+            'The Deathly Hallows'
+          ]
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?',
+          'correct_answer': 'INGSOC',
+          'incorrect_answers': ['Neo-Bolshevism', 'Obliteration of the Self', 'Earth Alliance']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'Who wrote &quot;A Tale of Two Cities&quot;?',
+          'correct_answer': 'Charles Dickens',
+          'incorrect_answers': ['Charles Darwin', 'Mark Twain', 'Roald Dahl']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'What was Sir Handel&#039;s original name in &quot;The Railway Series&quot; and it&#039;s animated counterpart &quot;Thomas and Friends?&quot;',
+          'correct_answer': 'Falcon',
+          'incorrect_answers': ['Eagle', 'Kyte', 'Swallow']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'Who wrote the &quot;A Song of Ice And Fire&quot; fantasy novel series?',
+          'correct_answer': 'George R. R. Martin',
+          'incorrect_answers': ['George Lucas', 'George Orwell', 'George Eliot']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'How many books are in the Chronicles of Narnia series?',
+          'correct_answer': '7',
+          'incorrect_answers': ['6', '8', '5']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In the Lord of the Rings, who is the father of the dwarf Gimli?',
+          'correct_answer': 'Gloin',
+          'incorrect_answers': ['Thorin Oakenshield', 'Bombur', 'Dwalin']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'What position does Harry Potter play in Quidditch?',
+          'correct_answer': 'Seeker',
+          'incorrect_answers': ['Beater', 'Chaser', 'Keeper']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'What was the pen name of novelist, Mary Ann Evans?',
+          'correct_answer': 'George Eliot',
+          'incorrect_answers': ['George Orwell', 'George Bernard Shaw', 'George Saunders']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?',
+          'correct_answer': 'Hans Christian Andersen',
+          'incorrect_answers': ['Charles Dickens', 'Lewis Carroll', 'Oscar Wilde']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'The novel &quot;Of Mice And Men&quot; was written by what author? ',
+          'correct_answer': 'John Steinbeck ',
+          'incorrect_answers': ['George Orwell', 'Mark Twain ', 'Harper Lee']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'J.K. Rowling completed &quot;Harry Potter and the Deathly Hallows&quot; in which hotel in Edinburgh, Scotland?',
+          'correct_answer': 'The Balmoral',
+          'incorrect_answers': ['The Dunstane Hotel', 'Hotel Novotel', 'Sheraton Grand Hotel &amp; Spa']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'The title of Adolf Hitler&#039;s autobiography &quot;Mein Kampf&quot; is what when translated to English?',
+          'correct_answer': 'My Struggle',
+          'incorrect_answers': ['My Hatred', 'My Sadness', 'My Desire']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'According to The Hitchhiker&#039;s Guide to the Galaxy book, the answer to life, the universe and everything else is...',
+          'correct_answer': '42',
+          'incorrect_answers': ['Loving everyone around you', 'Chocolate', 'Death']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'The book &quot;The Little Prince&quot; was written by...',
+          'correct_answer': 'Antoine de Saint-Exup&eacute;ry',
+          'incorrect_answers': ['Miguel de Cervantes Saavedra', 'Jane Austen', 'F. Scott Fitzgerald']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'Which of these book series is by James Patterson?',
+          'correct_answer': 'Maximum Ride',
+          'incorrect_answers': ['Harry Potter', 'The Legend of Xanth', 'The Bartemaeus Trilogy']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?',
+          'correct_answer': 'The Greasers',
+          'incorrect_answers': ['The Outsiders', 'The Mafia', 'The Socs']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1990)?',
+          'correct_answer': '1989 Toyota Land Cruiser',
+          'incorrect_answers': [
+            '1989 Jeep Wrangler YJ Sahar',
+            '1989 Ford Explorer XLT',
+            'Mercedes M-Class'
+          ]
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In &quot;Little Women&quot;, which of the March sisters married Laurie?',
+          'correct_answer': 'Amy',
+          'incorrect_answers': ['Beth', 'Jo', 'Meg']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'What is the name of Eragon&#039;s dragon in &quot;Eragon&quot;?',
+          'correct_answer': 'Saphira',
+          'incorrect_answers': ['Glaedr', 'Thorn', 'Arya']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'Which novel by John Grisham was conceived on a road trip to Florida while thinking about stolen books with his wife?',
+          'correct_answer': 'Camino Island',
+          'incorrect_answers': ['Rogue Lawyer', 'Gray Mountain', 'The Litigators']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In Terry Pratchett&#039;s Discworld novel &#039;Wyrd Sisters&#039;, which of these are not one of the three main witches?',
+          'correct_answer': 'Winny Hathersham',
+          'incorrect_answers': ['Granny Weatherwax', 'Nanny Ogg', 'Magrat Garlick']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'Which Russian author wrote the epic novel War and Peace?',
+          'correct_answer': 'Leo Tolstoy',
+          'incorrect_answers': ['Fyodor Dostoyevsky', 'Alexander Pushkin', 'Vladimir Nabokov']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?',
+          'correct_answer': 'Zhao Yun',
+          'incorrect_answers': ['Liu Bei', 'Guan Yu', 'Zhang Fei']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'Which author and poet famously wrote the line, &quot;The female of the species is more deadly than the male&quot;?',
+          'correct_answer': 'Rudyard Kipling',
+          'incorrect_answers': ['Edgar Allan Poe', 'William Shakespeare', 'William Wordsworth']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In the Beatrix Potter books, what type of animal is Tommy Brock?',
+          'correct_answer': 'Badger',
+          'incorrect_answers': ['Fox', 'Frog', 'Rabbit']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'Who wrote the novel &quot;Moby-Dick&quot;?',
+          'correct_answer': 'Herman Melville',
+          'incorrect_answers': ['William Golding', 'William Shakespeare', 'J. R. R. Tolkien']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?',
+          'correct_answer': '549 Days',
+          'incorrect_answers': ['765 Days', '401 Days', '324 Days']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?',
+          'correct_answer': 'Oswald',
+          'incorrect_answers': ['James', 'Harold', 'Christopher']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In the Harry Potter universe, who does Draco Malfoy end up marrying?',
+          'correct_answer': 'Astoria Greengrass',
+          'incorrect_answers': ['Pansy Parkinson', 'Millicent Bulstrode', 'Hermione Granger']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'What is Hermione Granger&#039;s middle name?',
+          'correct_answer': 'Jean',
+          'incorrect_answers': ['Jane', 'Emma', 'Jo']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'What is Ron Weasley&#039;s middle name?',
+          'correct_answer': 'Bilius',
+          'incorrect_answers': ['Arthur', 'John', 'Dominic']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'Abel Magwitch is a character from which Charles Dickens novel?',
+          'correct_answer': 'Great Expectations',
+          'incorrect_answers': ['The Pickwick Papers', 'Nicholas Nickleby', 'Oliver Twist']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In the &quot;Harry Potter&quot; series, what is Headmaster Dumbledore&#039;s full name?',
+          'correct_answer': 'Albus Percival Wulfric Brian Dumbledore',
+          'incorrect_answers': [
+            'Albus Valum Jetta Mobius Dumbledore',
+            'Albus James Lunae Otto Dumbledore',
+            'Albus Valencium Horatio Kul Dumbledore'
+          ]
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'Which of these does Charlie NOT read in The Perks of Being a Wallflower?',
+          'correct_answer': 'The Grapes of Wrath',
+          'incorrect_answers': ['Hamlet', 'The Great Gatsby', 'Peter Pan']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'Where does the book &quot;The Silence of the Lambs&quot; get its title from?',
+          'correct_answer': 'The main character&#039;s trauma in childhood',
+          'incorrect_answers': [
+            'The relation it has with killing the innocents',
+            'The villain&#039;s favourite meal',
+            'The voice of innocent people being shut by the powerful'
+          ]
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In Margaret Atwood&#039;s &quot;The Handmaid&#039;s Tale&quot;, what is Offred&#039;s real name is implied to be?',
+          'correct_answer': 'June',
+          'incorrect_answers': ['August', 'April', 'May']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?',
+          'correct_answer': 'Terisiare',
+          'incorrect_answers': ['Aerona', 'Shiv', 'Jamuraa']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?',
+          'correct_answer': 'Sarpadia',
+          'incorrect_answers': ['Otaria', 'Terisiare', 'Shiv']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In which classic novel is there a character named Homer Simpson?',
+          'correct_answer': 'The Day of the Locust',
+          'incorrect_answers': ['Catch-22', 'Of Mice and Men', 'A Separate Peace']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'Which author co-wrote &quot;The Communist Manifesto&quot; alongside Karl Marx?',
+          'correct_answer': 'Friedrich Engels',
+          'incorrect_answers': ['Robert Owen', 'Alexander Kerensky', 'Paul Lafargue']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?',
+          'correct_answer': 'The Prince and the Pauper',
+          'incorrect_answers': ['Hamlet', 'Wealthy Boy and the Schmuck', 'A Modern Twain Story']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'What is the name of the town in which Lily and James Potter are buried?',
+          'correct_answer': 'Godric&#039;s Hollow',
+          'incorrect_answers': ['Hogsmeade', 'Ottery St. Catchpole', 'Little Hangleton']
+        },
+        {
+          'category': 'Entertainment: Books',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In The Lies Of Locke Lamora, what does &quot;Lamora&quot; mean in Throne Therin?',
+          'correct_answer': 'Shadow',
+          'incorrect_answers': ['Thievery', 'Justice', 'Chaos']
+        }
+      ]
+    ";
+  }
+}

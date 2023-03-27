@@ -1,0 +1,418 @@
+namespace Persistence.JSONStrings.Entertainment
+{
+  public partial class EntertainmentJson
+  {
+    public static string Anime = @"
+      [
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'Who wrote and directed the animated movie &quot;Spirited Away&quot; (2001)?',
+          'correct_answer': 'Hayao Miyazaki',
+          'incorrect_answers': ['Isao Takahata', 'Mamoru Hosoda', 'Hidetaka Miyazaki']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In Dragon Ball Z, who was the first character to go Super Saiyan 2?',
+          'correct_answer': 'Gohan',
+          'incorrect_answers': ['Goku', 'Vegeta', 'Trunks']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'What is the last name of Edward and Alphonse in the Fullmetal Alchemist series.',
+          'correct_answer': 'Elric',
+          'incorrect_answers': ['Ellis', 'Eliek', 'Elwood']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'In &quot;Inuyasha&quot;, what are the heros are looking to collect?',
+          'correct_answer': 'Jewel Shards',
+          'incorrect_answers': ['Dragon Balls', 'Rave Stones', 'Sacred Stones']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'In &quot;Fairy Tail&quot;, what is the nickname of Natsu Dragneel?',
+          'correct_answer': 'The Salamander',
+          'incorrect_answers': ['The Dragon Slayer', 'The Dragon', 'The Demon']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'In the 9th Pokemon movie, who is the Prince of the Sea?',
+          'correct_answer': 'Manaphy',
+          'incorrect_answers': ['Ash', 'May', 'Phantom']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'What is the age of Ash Ketchum in Pokemon when he starts his journey?',
+          'correct_answer': '10',
+          'incorrect_answers': ['11', '12', '9']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'Which of the following countries does &quot;JoJo&#039;s Bizarre Adventure: Stardust Crusaders&quot; not take place in?',
+          'correct_answer': 'Philippines',
+          'incorrect_answers': ['India', 'Pakistan', 'Egypt']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In JoJo&#039;s Bizarre Adventure, winch character is able to accelerate time?',
+          'correct_answer': 'Enrico Pucci',
+          'incorrect_answers': ['Jotaro Kujo', 'Jolyne Cujoh', 'Kujo Jotaro']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'Winch of these names are not a character of JoJo&#039;s Bizarre Adventure?',
+          'correct_answer': 'JoJo Kikasu',
+          'incorrect_answers': ['Jean-Pierre Polnareff', 'George Joestar', 'Risotto Nero']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'Who is the main character with yellow hair in the anime Naruto?',
+          'correct_answer': 'Naruto',
+          'incorrect_answers': ['Ten Ten', 'Sasuke', 'Kakashi']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'What song plays in the ending credits of the anime &quot;Ergo Proxy&quot;?',
+          'correct_answer': 'Paranoid Android',
+          'incorrect_answers': ['Sadistic Summer', 'Bittersweet Symphony', 'Mad World']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'In the anime Black Butler, who is betrothed to be married to Ciel Phantomhive?',
+          'correct_answer': 'Elizabeth Midford',
+          'incorrect_answers': ['Rachel Phantomhive', 'Alexis Leon Midford', 'Angelina Dalles']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'What is the name of the final villain in the manga series &quot;Bleach&quot;?',
+          'correct_answer': 'Yhwach',
+          'incorrect_answers': ['Juha Bach', 'Yuhabah', 'Juhabach']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'What year did the anime &quot;Himouto! Umaru-chan&quot; air?',
+          'correct_answer': '2015',
+          'incorrect_answers': ['2014', '2012', '2013']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'Who is the author of the manga series &quot;Astro Boy&quot;?',
+          'correct_answer': 'Osamu Tezuka',
+          'incorrect_answers': ['Mitsuteri Yokoyama', 'Takao Saito', 'Yoshihiro Tatsumi']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'Which of the following anime of the mecha genre began airing in 1982?',
+          'correct_answer': 'The Super Dimension Fortress Macross',
+          'incorrect_answers': ['Mobile Suit Gundam', 'Armored Trooper VOTOMS', 'Neon Genesis Evangelion']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'Which of the following manga have the most tankouban volumes?',
+          'correct_answer': 'Golgo 13',
+          'incorrect_answers': ['JoJo&#039;s Bizarre Adventure', 'Detective Conan', 'One Piece']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'The characters of &quot;Log Horizon&quot; are trapped in what game?',
+          'correct_answer': 'Elder Tale',
+          'incorrect_answers': ['Sword Art Online', 'Tower Unite', 'Yggdrasil']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'The heroine of &quot;Humanity Has Declined&quot; is a mediator between humans and what?',
+          'correct_answer': 'Fairies',
+          'incorrect_answers': ['Elves', 'The Earth', 'Animals']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'Medaka Kurokami from &quot;Medaka Box&quot; has what abnormality?',
+          'correct_answer': 'The End',
+          'incorrect_answers': ['Perfection', 'Sandbox', 'Fairness']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'Krusty is the guild master of which guild in &quot;Log Horizon&quot;?',
+          'correct_answer': 'D. D. D',
+          'incorrect_answers': ['Silver Sword', 'West Wind Brigade', 'Oceanic Systems (Marine Agency)']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In &quot;One Piece&quot;, what does &quot;the Pirate King&quot; mean to the captain of the Straw Hat Pirates?',
+          'correct_answer': 'Freedom',
+          'incorrect_answers': ['Promise', 'Adventure', 'Friendship']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In what year did the manga &quot;Ping Pong&quot; begin serialization?',
+          'correct_answer': '1996',
+          'incorrect_answers': ['2014', '2010', '2003']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In the &quot;Sailor Moon&quot; series, what is Sailor Jupiter&#039;s civilian name?',
+          'correct_answer': 'Makoto Kino',
+          'incorrect_answers': ['Minako Aino', 'Usagi Tsukino', 'Rei Hino']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'What year does Part 7 of &quot;JoJo&#039;s Bizarre Adventure&quot; take place in?',
+          'correct_answer': '1890',
+          'incorrect_answers': ['1888', '1999', '2003']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In &quot;JoJo&#039;s Bizarre Adventure&quot;, which of the following Stands does NOT have a time-based ability?',
+          'correct_answer': '20th Century Boy',
+          'incorrect_answers': ['Made in Heaven', 'Star Platinum', 'The World']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'Who voices &quot;Shou Suzuki&quot; in the English dub of &quot;Mob Psycho 100&quot;?',
+          'correct_answer': 'Casey Mongillo',
+          'incorrect_answers': ['Ben Diskin', 'Chris Niosi', 'David Naughton']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In the &quot;To Love-Ru&quot; series, how many Trans-weapons were created?',
+          'correct_answer': '3',
+          'incorrect_answers': ['1', '2', '4']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'The &quot;To Love-Ru&quot; Manga was started in what year?',
+          'correct_answer': '2006',
+          'incorrect_answers': ['2007', '2004', '2005']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In &quot;Highschool DxD&quot;, Koneko Toujou is from what race?',
+          'correct_answer': 'Nekomata',
+          'incorrect_answers': ['Kitsune', 'Human', 'Kappa']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In &quot;To Love-Ru&quot;, who is the first to hear of Yami&#039;s past from her?',
+          'correct_answer': 'Rito',
+          'incorrect_answers': ['Mikan', 'Lala', 'Haruna']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?',
+          'correct_answer': 'Ursula Callistis',
+          'incorrect_answers': ['Croix Meridies', 'Miranda Holbrook', 'Anne Finnelan']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'In Ms. Kobayashi&#039;s Dragon Maid, who is Kobayashi&#039;s maid?',
+          'correct_answer': 'Tohru',
+          'incorrect_answers': ['Lucoa', 'Kanna', 'Elma']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In Haikyuu!!, who is not a member of Karasuno VBC?',
+          'correct_answer': 'Shigeru Yahaba',
+          'incorrect_answers': ['Tadashi Yamaguchi', 'Hisashi Kinoshita', 'Kazuhito Narita']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'In &quot;Jewelpet Sunshine&quot;, what is the song that plays when Kanon and her friends bust out of prison?',
+          'correct_answer': 'I Don&#039;t Want to Miss a Thing',
+          'incorrect_answers': ['Eye Of The Tiger', 'Born to be Wild', 'Ruby Ring']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In &quot;Black Lagoon&quot;, what colour is Rock&#039;s tie?',
+          'correct_answer': 'Teal',
+          'incorrect_answers': ['Crimson', 'Dark Brown', 'Black']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'How many &quot;JoJos&quot; that are protagonists are there in the series &quot;Jojo&#039;s Bizarre Adventure&quot;?',
+          'correct_answer': '8',
+          'incorrect_answers': ['6', '4', '5']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'Which animation studio animated &quot;To Love-Ru&quot;?',
+          'correct_answer': 'Xebec',
+          'incorrect_answers': ['Trigger', 'Sunrise', 'Kyoto Animation']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'What is the name of Funny Valentine&#039;s stand in Jojo&#039;s Bizarre Adventure Part 7, Steel Ball Run?',
+          'correct_answer': 'Dirty Deeds Done Dirt Cheap',
+          'incorrect_answers': [
+            'Filthy Acts Done For A Reasonable Price',
+            'Civil War',
+            'God Bless The USA'
+          ]
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In &quot;Love Live: School Idol Project&quot; what pseudonym does Kotori Minami use in her job as a maid?',
+          'correct_answer': 'Minalinsky',
+          'incorrect_answers': ['Stanoytchev', 'Kuznetsov', 'Aqours']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In &quot;JoJo&#039;s Bizzare Adventure: Stardust Crusaders&quot;, what is the last name of the protagonist Jotaro?',
+          'correct_answer': 'Kujo',
+          'incorrect_answers': ['Cujoh', 'Joestar', 'Higashikata']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'Which of these is not a world in the anime &quot;Buddyfight&quot;?',
+          'correct_answer': 'Ancient Dragon World',
+          'incorrect_answers': ['Dragon World', 'Star Dragon World', 'Darkness Dragon World']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'How does the character Dragowizard, Qinus Axia&#039;s from the anime &quot;Buddyfight&quot; differ between the Japanese and English dubs?',
+          'correct_answer': 'Different Gender',
+          'incorrect_answers': [
+            'Different Body Proportions',
+            'Different Backstory',
+            'Different Appearance'
+          ]
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'What is the name of the protagonist of the 2017 anime &quot;Land of the Lustrous&quot;?',
+          'correct_answer': 'Phosphophyllite',
+          'incorrect_answers': ['Watermelon Tourmaline', 'Cinnabar', 'Padparadscha']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'What is the name of JoJo&#039;s Bizarre Adventure Part 5?',
+          'correct_answer': 'Vento Aureo',
+          'incorrect_answers': ['Vento Oreo', 'Vanto Aureo', 'Vento Eureo']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'hard',
+          'question': 'Who is the horror manga artist who made Uzumaki?',
+          'correct_answer': 'Junji Ito',
+          'incorrect_answers': ['Kazuo Umezu', 'Shintaro Kago', 'Sui Ishida']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'medium',
+          'question': 'In the series JoJo&#039;s Bizarre Adventure, which main character makes the greatest number of recurring appearances?',
+          'correct_answer': 'Jotaro Kujo',
+          'incorrect_answers': ['Giorno Giovanna', 'Joseph Joestar', 'Josuke Higashikata']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'In the Naruto manga, what is the last name of Tsunade?',
+          'correct_answer': 'Senju',
+          'incorrect_answers': ['Haruno', 'Uzumaki', 'Yamanaka']
+        },
+        {
+          'category': 'Entertainment: Japanese Anime & Manga',
+          'type': 'multiple',
+          'difficulty': 'easy',
+          'question': 'In the anime &quot;My Hero Academia&quot;, which character is shown with the ability to manipulate gravity?',
+          'correct_answer': 'Uraraka',
+          'incorrect_answers': ['Bakugo', 'Deku', 'Asui ']
+        }
+      ]
+    ";
+  }
+}

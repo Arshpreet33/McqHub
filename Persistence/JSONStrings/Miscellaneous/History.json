@@ -1,0 +1,414 @@
+[
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "easy",
+		"question": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+		"correct_answer": "Silver",
+		"incorrect_answers": ["Gold", "Juno", "Sword"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?",
+		"correct_answer": "Romantic",
+		"incorrect_answers": ["Classic", "Baroque", "Renaissance"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "During the Mongolian invasions of Japan, what were the Mongol boats mostly stopped by?",
+		"correct_answer": "Typhoons",
+		"incorrect_answers": ["Tornados", "Economic depression", "Samurai"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "In relation to the British Occupation in Ireland, what does the IRA stand for.",
+		"correct_answer": "Irish Republican Army",
+		"incorrect_answers": ["Irish Rebel Alliance", "Irish Reformation Army", "Irish-Royal Alliance"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "What was the name of the spy ring that helped the United States win the Revolutionary War?",
+		"correct_answer": "Culper Ring",
+		"incorrect_answers": ["New York Spy Ring", "Washington&#039;s Spies", "Unnamed"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Who was the first explorer to sail to North America?",
+		"correct_answer": "Leif Erikson",
+		"incorrect_answers": ["Christopher Columbus", "Amerigo Vespucci", "Ferdinand Magellan"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "When did Spanish Peninsular War start?",
+		"correct_answer": "1808",
+		"incorrect_answers": ["1806", "1810", "1809"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "The Battle of the Somme in World War I took place in which country?",
+		"correct_answer": "France",
+		"incorrect_answers": ["Germany", "Italy", "Austria"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "In what year was the last natural case of smallpox documented?",
+		"correct_answer": "1977",
+		"incorrect_answers": ["1982", "1980", "1990"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+		"correct_answer": "Shamshi-Adad III",
+		"incorrect_answers": ["Shalmaneser V", "Esharhaddon", "Ashur-nasir-pal II"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "easy",
+		"question": "Which of these countries remained neutral during World War II?",
+		"correct_answer": "Switzerland",
+		"incorrect_answers": ["United Kingdom", "France", "Italy"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "What age was King Henry V when he died?",
+		"correct_answer": "35",
+		"incorrect_answers": ["62", "87", "73"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which of these countries was NOT a part of the Soviet Union?",
+		"correct_answer": "Afghanistan",
+		"incorrect_answers": ["Turkmenistan", "Kazakhstan", "Uzbekistan"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "easy",
+		"question": "Which modern day country is the region that was known as Phrygia in ancient times?",
+		"correct_answer": "Turkey",
+		"incorrect_answers": ["Syria", "Greece", "Egypt"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "When did Canada leave the confederation to become their own nation?",
+		"correct_answer": "July 1st, 1867",
+		"incorrect_answers": ["July 1st, 1763", "July 1st, 1832", "July 1st, 1902"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "When was the SS or Schutzstaffel established?",
+		"correct_answer": "April 4th, 1925",
+		"incorrect_answers": ["September 1st, 1941", "March 8th, 1935", "February 21st, 1926"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "The Second Boer War in 1899 was fought where?",
+		"correct_answer": "South Africa",
+		"incorrect_answers": ["Argentina", "Nepal", "Bulgaria"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Joseph Stalin had a criminal past doing what?",
+		"correct_answer": "Robbing Trains",
+		"incorrect_answers": ["Murder for Hire", "Tax Evasion", "Identity Fraud"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "What was the real name of the Albanian national leader Skanderbeg?",
+		"correct_answer": "Gjergj Kastrioti",
+		"incorrect_answers": ["Diturak Zhulati", "Iskander Bejko", "Mirash Krasniki"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which WWII tank ace is credited with having destroyed the most tanks?",
+		"correct_answer": "Kurt Knispel",
+		"incorrect_answers": ["Michael Wittmann", "Walter Kniep", "Otto Carius"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "What year was the United States Declaration of Independence signed?",
+		"correct_answer": "1776",
+		"incorrect_answers": ["1775", "1774", "1777"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "What was Napoleon Bonaparte&#039;s name before he changed it?",
+		"correct_answer": "Napoleone di Buonaparte",
+		"incorrect_answers": [
+			"Naapolion van Bonijpaart",
+			"Napole&atilde;o do Boaparte",
+			"Napoleona de Buenoparte"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "What was Genghis Khan&#039;s real name?",
+		"correct_answer": "Tem&uuml;jin",
+		"incorrect_answers": ["M&ouml;ngke", "&Ouml;gedei", "Tem&uuml;r"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "When did Norway become free from Sweden?",
+		"correct_answer": "1905",
+		"incorrect_answers": ["1925", "1814", "1834"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "easy",
+		"question": "How was Socrates executed?",
+		"correct_answer": "Poison",
+		"incorrect_answers": ["Decapitation", "Firing squad", "Crucifixion "]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Who was the leader of the Communist Party of Yugoslavia ?",
+		"correct_answer": "Josip Broz Tito",
+		"incorrect_answers": ["Karadjordje Petrovic", "Milos Obilic", "Aleskandar Petrovic"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "easy",
+		"question": "The &quot;Trail of Tears&quot; was a result of which United States President&#039;s Indian Removal Policy?",
+		"correct_answer": "Andrew Jackson",
+		"incorrect_answers": ["Harry S. Truman", "Martin Van Buren", "John Quincy Adams"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which of the following countries was the first to send an object into space?",
+		"correct_answer": "Germany",
+		"incorrect_answers": ["USA", "Russia", "China"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "How long did the Warsaw Uprising during World War II last?",
+		"correct_answer": "63 Days",
+		"incorrect_answers": ["20 Days", "55 Days", "224 Days"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "When did the British hand-over sovereignty of Hong Kong back to China?",
+		"correct_answer": "1997",
+		"incorrect_answers": ["1999", "1841", "1900"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "What was the original name of New York City?",
+		"correct_answer": "New Amsterdam",
+		"incorrect_answers": ["New London", "New Paris", "New Rome"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which country was an allied power in World War II?",
+		"correct_answer": "Soviet Union",
+		"incorrect_answers": ["Italy", "Germany", "Japan"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "Which of the following was not one of Joseph Stalin&#039;s ten blows during World War II?",
+		"correct_answer": "Vistula-Oder Offensive",
+		"incorrect_answers": [
+			"Crimean Offensive",
+			"Leningrad-Novgorod Offensive",
+			"Operation Bagration"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "On which aircraft carrier did the Doolitte Raid launch from on April 18, 1942 during World War II?",
+		"correct_answer": "USS Hornet",
+		"incorrect_answers": ["USS Enterprise", "USS Lexington", "USS Saratoga"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "What was the code name for the German invasion of the Soviet Union in WW2?",
+		"correct_answer": "Operation Barbarossa",
+		"incorrect_answers": ["Operation Kaiserschlact", "Operation Unthinkable", "Operation Molotov"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "easy",
+		"question": "Which country was Josef Stalin born in?",
+		"correct_answer": "Georgia",
+		"incorrect_answers": ["Russia", "Germany", "Poland"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Who was the only US President to be elected four times?",
+		"correct_answer": "Franklin Roosevelt",
+		"incorrect_answers": ["Theodore Roosevelt", "George Washington", "Abraham Lincoln"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Who crowned Charlemagne as Holy Roman Emperor on Christmas Day in 800?",
+		"correct_answer": "Pope Leo III",
+		"incorrect_answers": ["Pope Urban IV", "Pope Stephen V", "Pope Valentine"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "From 1940 to 1942, what was the capital-in-exile of Free France ?",
+		"correct_answer": "Brazzaville",
+		"incorrect_answers": ["Algiers", "Paris", "Tunis"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "The ancient city of Chich&eacute;n Itz&aacute; was built by which civilization?",
+		"correct_answer": "Mayans",
+		"incorrect_answers": ["Aztecs", "Incas", "Toltecs"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "Which English king was married to Eleanor of Aquitaine?",
+		"correct_answer": "Henry II",
+		"incorrect_answers": ["Richard I", "Henry I", "Henry V"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which of these 1900s tanks were designed and built BEFORE the others?",
+		"correct_answer": "Renault FT",
+		"incorrect_answers": ["M4 Sherman", " Panzer IV", "Cromwell "]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "What was the name of the planned invasion of Japan towards the end of World War II?",
+		"correct_answer": "Operation Downfall",
+		"incorrect_answers": ["Operation Boarding Party", "Operation Ironclad", "Operation Aflame"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "What happened on June 6, 1944?",
+		"correct_answer": "D-Day",
+		"incorrect_answers": [
+			"Atomic bombings of Hiroshima and Nagasaki",
+			"Attack on Pearl Harbor",
+			"The Liberation of Paris"
+		]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "easy",
+		"question": "In what year did the Great Northern War, between Russia and Sweden, end?",
+		"correct_answer": "1721",
+		"incorrect_answers": ["1726", "1727", "1724"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "easy",
+		"question": "Who rode on horseback to warn the Minutemen that the British were coming during the U.S. Revolutionary War?",
+		"correct_answer": "Paul Revere",
+		"incorrect_answers": ["Thomas Paine", "Henry Longfellow", "Nathan Hale"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "Which of the following Physicists aided Nazi Germany in their production of a nuclear weapon?",
+		"correct_answer": "Werner Heisenberg",
+		"incorrect_answers": ["John von Neumann", "Albert Einstein", "Max Planck"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "hard",
+		"question": "The son of which pope supposedly held a lecherous f&ecirc;te involving 50 courtesans in the papal palace?",
+		"correct_answer": "Alexander VI",
+		"incorrect_answers": ["Innocent V", "Urban II", "Pius III"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "What was the name of the chemical that was dropped on Vietnam during the Vietnam war?",
+		"correct_answer": "Agent Orange",
+		"incorrect_answers": ["Phosgene", "Mustard Gas", "Hydrogen Cyanide"]
+	},
+	{
+		"category": "History",
+		"type": "multiple",
+		"difficulty": "medium",
+		"question": "Which of these facilities was not present on the Titanic?",
+		"correct_answer": "Fainting room",
+		"incorrect_answers": ["Turkish bath", "Kennel", "Squash court"]
+	}
+]

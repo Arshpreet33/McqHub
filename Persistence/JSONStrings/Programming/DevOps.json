@@ -1,0 +1,1442 @@
+[
+	{
+		"id": 998,
+		"question": "Which of the following are Container Orchestrators? Select all answers that apply.",
+		"description": null,
+		"answers": {
+			"answer_a": "Vault",
+			"answer_b": "Ansible",
+			"answer_c": "Kubernetes",
+			"answer_d": "Docker Swarm",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "true",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 914,
+		"question": "The Kubernetes Network proxy runs on which node?",
+		"description": null,
+		"answers": {
+			"answer_a": "Master Node",
+			"answer_b": "Worker Node",
+			"answer_c": "All the nodes",
+			"answer_d": "None of the mentioned",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 1035,
+		"question": "Which of the following commands will install Ansible on Ubuntu?",
+		"description": null,
+		"answers": {
+			"answer_a": "sudo apt install ansible",
+			"answer_b": "sudo apt install ansible-controller",
+			"answer_c": "sudo apt install ansible-master",
+			"answer_d": "sudo apt install ansible-server",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "DevOps"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 958,
+		"question": "In Kubernetes, a node is:",
+		"description": null,
+		"answers": {
+			"answer_a": "A tool for starting a kubernetes cluster on a local machine",
+			"answer_b": "A worker machine",
+			"answer_c": "A machine that coordinates the scheduling and management of application containers on the cluster",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 1013,
+		"question": "What Is The Role Of Kube-scheduler?",
+		"description": null,
+		"answers": {
+			"answer_a": "kube-scheduler is responsible for assigning a port to newly created pods.",
+			"answer_b": "kube-scheduler is responsible for assigning a node to old created pods.",
+			"answer_c": "kube-scheduler is responsible for assigning a cluster to newly created pods.",
+			"answer_d": "kube-scheduler is responsible for discovering the newly created pod and selects an optimal node for them to run on",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 919,
+		"question": "The handler invoked by Kubelet to check if a container’s IP address is open or not is?",
+		"description": null,
+		"answers": {
+			"answer_a": "HTTPGetAction",
+			"answer_b": "TCPSocketAction",
+			"answer_c": "ExecAction",
+			"answer_d": "None of the above",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 1057,
+		"question": "What do you need to specify in your Ansible playbook to stop gathering facts?",
+		"description": null,
+		"answers": {
+			"answer_a": "facts_gathering: no",
+			"answer_b": "gather: no",
+			"answer_c": "facts: no",
+			"answer_d": "gather_facts: no",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "DevOps"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 1049,
+		"question": "Which command will you use to run a playbook called install.yaml with Ansible?",
+		"description": null,
+		"answers": {
+			"answer_a": "ansible-playbook install.yml",
+			"answer_b": "ansible install.yml",
+			"answer_c": "ansible --playbook install.yml",
+			"answer_d": "ansible -p install.yml",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "DevOps"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 904,
+		"question": "Kube-apiserver on kubernetes master is designed to scale.",
+		"description": null,
+		"answers": {
+			"answer_a": "Vertically",
+			"answer_b": "Horizontally",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 1048,
+		"question": "The -b flag in an Ansible ad-hoc command indicates that the command should be executed with sudo privileges.",
+		"description": null,
+		"answers": {
+			"answer_a": "false",
+			"answer_b": "true",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "DevOps"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 966,
+		"question": "What is the purpose of a ReplicaSet?",
+		"description": null,
+		"answers": {
+			"answer_a": "To prevent clones from invading other clusters",
+			"answer_b": "To monitor and respond to environmental latency",
+			"answer_c": "To maintain a stable set of replica Pods running at any given time",
+			"answer_d": "To create and maintain volumes",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 1050,
+		"question": "Which argument will you use to specify a variable for your Ansible playbook?",
+		"description": null,
+		"answers": {
+			"answer_a": "-v",
+			"answer_b": "-e",
+			"answer_c": "-c",
+			"answer_d": "-a",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "DevOps"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 957,
+		"question": "At its core, Kubernetes is a platform for:",
+		"description": null,
+		"answers": {
+			"answer_a": "Provisioning machines (similar to Puppet, Ansible)",
+			"answer_b": "Running and scheduling container applications on a cluster",
+			"answer_c": "Packaging software in containers",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 1047,
+		"question": "Which Ansible command will you use to install Apache on Ubuntu host?",
+		"description": null,
+		"answers": {
+			"answer_a": "ansible your_host_name_here -b -m apt -a \"name=apache2 state=latest\"",
+			"answer_b": "ansible your_host_name_here -b -m yum -a \"name=apache2 state=latest\"",
+			"answer_c": "ansible your_host_name_here -b -m wget -a \"name=apache2 state=latest\"",
+			"answer_d": "ansible your_host_name_here apt install \"name=apache2 state=latest\"",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "DevOps"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 924,
+		"question": "Which of the following is not a services in Kubernetes?",
+		"description": null,
+		"answers": {
+			"answer_a": "Cluster IP",
+			"answer_b": "Node port",
+			"answer_c": "Load Balancer",
+			"answer_d": "External name",
+			"answer_e": "Container Proxy",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "true",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 933,
+		"question": "What is a load balancer in Kubernetes?",
+		"description": null,
+		"answers": {
+			"answer_a": "load balancer is a method for seperating service",
+			"answer_b": "load balancer is a method for exposing service",
+			"answer_c": "load balancer is a method for partitioning service",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 947,
+		"question": "Write a command to create deployment?",
+		"description": null,
+		"answers": {
+			"answer_a": "kubectl --create f Deployment.yaml –record",
+			"answer_b": "kubectl create f Deployment.yaml –record",
+			"answer_c": "kubectl create –f Deployment.yaml –record",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 965,
+		"question": "Kubelet is a?",
+		"description": null,
+		"answers": {
+			"answer_a": "A node agent that manages pods and their containers",
+			"answer_b": "A smaller version of Kubernetes",
+			"answer_c": "Software that is used to run containers outside of pods",
+			"answer_d": "A device that collects data in an organized manner for easy access",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 930,
+		"question": "How can a company deal with a monolithic codebase issue?",
+		"description": null,
+		"answers": {
+			"answer_a": "By transitioning from a monolithic codebase to a microservice design so that different microservices can be classified as containers.",
+			"answer_b": "By building a large Docker image containing the monolithic codebase and deploying it as a single container to Kubernetes",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 1036,
+		"question": "Which command will you use to check your Ansible version?",
+		"description": null,
+		"answers": {
+			"answer_a": "ansible-ctl --version",
+			"answer_b": "ansible --version",
+			"answer_c": "ansible v",
+			"answer_d": "ansiblectl v",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "DevOps"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 969,
+		"question": "What is the function of labels?",
+		"description": null,
+		"answers": {
+			"answer_a": "To classify functions",
+			"answer_b": "To tag containers and link them together in groups",
+			"answer_c": "To assign functions to pods",
+			"answer_d": "To be ignored by millennials",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 945,
+		"question": "Which of the following commands would show you the status of a Kubernetes deployment?",
+		"description": null,
+		"answers": {
+			"answer_a": "kubectl rollout stats deployment/Deployment",
+			"answer_b": "kubectl rollout status deployment/Deployment",
+			"answer_c": "kubectl rollout log deployment/Deployment",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 942,
+		"question": "How do you create secrets in Kubernetes?",
+		"description": null,
+		"answers": {
+			"answer_a": "kubectl create secret generic db-user-pass --from-file=./username.txt --from-file=./password.txt",
+			"answer_b": "kubectl generate secret generic db-user-pass --from-file=./username.txt --from-file=./password.txt",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 950,
+		"question": "What do you mean by “Rolling Update”?",
+		"description": null,
+		"answers": {
+			"answer_a": "Rolling updates helps the user to replace an existing replica controller to newer one",
+			"answer_b": "Rolling updates helps the user to replace the node pool to a newer one",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 939,
+		"question": "What is kubectl drain used for?",
+		"description": null,
+		"answers": {
+			"answer_a": "To safely evict all of your pods from a node before performing maintenance on the node",
+			"answer_b": "To stop all running containers in a pod",
+			"answer_c": "To get the status of a specific node during maintenance",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 1012,
+		"question": "What is the most common type of container runtime used in Kubernetes?",
+		"description": null,
+		"answers": {
+			"answer_a": "rkt",
+			"answer_b": "Docker",
+			"answer_c": "containerd",
+			"answer_d": "lxd",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 929,
+		"question": "Kubernetes helps in the effective distribution of resources by allocating the resources that are used by a particular application",
+		"description": null,
+		"answers": {
+			"answer_a": "True",
+			"answer_b": "False",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 1017,
+		"question": "What Is The Use Of Kube-controller-manager?",
+		"description": null,
+		"answers": {
+			"answer_a": "kube-controller-manager embeds the core control loop which is a non-terminating loop that regulates the state of the system.",
+			"answer_b": "kube-controller-manager embeds the core control loop which is a terminating loop that regulates the state of the system.",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 972,
+		"question": "What is a Kubernetes volume?",
+		"description": null,
+		"answers": {
+			"answer_a": "The software within an OS that controls capacity allocation for nodes",
+			"answer_b": "A directory for the data accessible to containers in a pod",
+			"answer_c": "Layering software that puts apps into compartments for easier deployment",
+			"answer_d": "Code that enables two software programs to communicate",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 954,
+		"question": "What do you mean by Node Controller?",
+		"description": null,
+		"answers": {
+			"answer_a": "Node controller are the group of services which were running in the Kubernetes Master",
+			"answer_b": "Node controller are the group of services which were running in the Kubernetes Swarm",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 952,
+		"question": "What are the functions of Replication controller?",
+		"description": null,
+		"answers": {
+			"answer_a": "It is responsible to control and administer the lifecycle of the pod.",
+			"answer_b": "It helps the user to check the running status of the pod",
+			"answer_c": "It is responsible to monitor and verify whether the allowed number of pod replicas were running",
+			"answer_d": "It is responsible for routing the ingress traffic",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "true",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "true",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 911,
+		"question": "Kubernetes cluster data is stored in which of the following?",
+		"description": null,
+		"answers": {
+			"answer_a": "Kube-apiserver",
+			"answer_b": "Kubelet",
+			"answer_c": "Etcd",
+			"answer_d": "None of the above",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 917,
+		"question": "How to define a service without a selector?",
+		"description": null,
+		"answers": {
+			"answer_a": "Specify the external name",
+			"answer_b": "Specify an endpoint with IP",
+			"answer_c": "Address and port Just by specifying the IP address",
+			"answer_d": "Specifying the label and api-version",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 920,
+		"question": "What are the different components of Kubernetes Architecture?",
+		"description": null,
+		"answers": {
+			"answer_a": "The Kubernetes Architecture has mainly 2 components – the master node and the worker node.",
+			"answer_b": "The Kubernetes Architecture has mainly 2 components – the service and the worker path.",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 1010,
+		"question": "While starting minikube, a configuration file, gets created by default inside what directory on Linux?",
+		"description": null,
+		"answers": {
+			"answer_a": "/tmp",
+			"answer_b": "/home/user/.kube",
+			"answer_c": "/root",
+			"answer_d": "/home/user",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 901,
+		"question": "Kubernetes is written in",
+		"description": null,
+		"answers": {
+			"answer_a": "C++",
+			"answer_b": "Go",
+			"answer_c": "Python",
+			"answer_d": "Java spring framework",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 916,
+		"question": "What are the responsibilities of Replication Controller?",
+		"description": null,
+		"answers": {
+			"answer_a": "Update or delete multiple pods with a single command",
+			"answer_b": "Helps to achieve the desired state",
+			"answer_c": "Creates a new pod, if the existing pod crashes",
+			"answer_d": "All of the mentioned",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 938,
+		"question": "Kubernetes Manifests can be in JSON or YAML format",
+		"description": null,
+		"answers": {
+			"answer_a": "True",
+			"answer_b": "False",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": "not good",
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 962,
+		"question": "Which of the following are true for a pod in Kubernetes?",
+		"description": null,
+		"answers": {
+			"answer_a": "A Pod represents processes running on your Cluster",
+			"answer_b": "Pods are the simplest units in the Kubernetes object model that you create or deploy",
+			"answer_c": "A pod is the same as a container",
+			"answer_d": "You can have only 1 container running in 1 pod",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "true",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 926,
+		"question": "What is a Headless Service?",
+		"description": null,
+		"answers": {
+			"answer_a": "Headless Service is similar to that of a ‘Normal’ services but does not have a Cluster IP.",
+			"answer_b": "Headless Service is similar to that of a ‘Normal’ services but has a Cluster IP.",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 925,
+		"question": "What is Ingress network?",
+		"description": null,
+		"answers": {
+			"answer_a": "Ingress network is a collection of rules that acts as an entry point to the Kubernetes cluster.",
+			"answer_b": "Ingress network is a routing outh that acts as an exit point to the Kubernetes cluster.",
+			"answer_c": "Ingress network is a http node that acts as an entry point to the Kubernetes cluster.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 918,
+		"question": "What did the 1.8 version of Kubernetes introduce?",
+		"description": null,
+		"answers": {
+			"answer_a": "Taints and Tolerations",
+			"answer_b": "Cluster level",
+			"answer_c": "Logging Secrets",
+			"answer_d": "Federated Clusters",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 968,
+		"question": "Which description best fits a DaemonSet?",
+		"description": null,
+		"answers": {
+			"answer_a": "A way to run a copy of a pod on all or some nodes",
+			"answer_b": "A method to manage clusters of pods",
+			"answer_c": "A channel through which to pass information between two or more nodes",
+			"answer_d": "A system to connect nodes and pods",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 951,
+		"question": "Which statement is true for Replica set?",
+		"description": null,
+		"answers": {
+			"answer_a": "Replica set is considered as a substitute to the replication controller. The prime function of replica set is to assure the number of pod replicas running.",
+			"answer_b": "Replica set is considered as the legacy replication controller. The prime function of replica set is to remove the number of pod replicas running.",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 928,
+		"question": "Which of the following stores Kubernetes cluster data?",
+		"description": null,
+		"answers": {
+			"answer_a": "Kube-API server",
+			"answer_b": "“Kubelet",
+			"answer_c": "ETCD",
+			"answer_d": "None of the mentioned",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "DevOps",
+		"difficulty": "Hard"
+	}
+]

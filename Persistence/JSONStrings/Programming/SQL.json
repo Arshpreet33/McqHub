@@ -1,0 +1,1924 @@
+[
+	{
+		"id": 220,
+		"question": "Which keyword is used with the ALTER command to delete a column?",
+		"description": null,
+		"answers": {
+			"answer_a": "DROP",
+			"answer_b": "DELETE",
+			"answer_c": "REMOVE",
+			"answer_d": "CHANGE",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 209,
+		"question": "UPDATE keyword is used for:",
+		"description": null,
+		"answers": {
+			"answer_a": "to create database elements",
+			"answer_b": "to change data",
+			"answer_c": "to manage users",
+			"answer_d": "to select data",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 211,
+		"question": "You have to sort records in the descending order by field \"rating\". Which query will be correct?",
+		"description": null,
+		"answers": {
+			"answer_a": "SORT BY \"rating\" DESC",
+			"answer_b": "SORT BY \"rating\"",
+			"answer_c": "ORDER BY \"rating\" DESC",
+			"answer_d": "ORDER BY \"rating\"",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 241,
+		"question": "Can you start two MySQL servers at one PC?",
+		"description": null,
+		"answers": {
+			"answer_a": "True",
+			"answer_b": "False",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 420,
+		"question": "What Is a MySQL View?",
+		"description": null,
+		"answers": {
+			"answer_a": "VIEWS are virtual tables that do not store any data of their own but display data stored in other tables.",
+			"answer_b": "VIEWS are static tables that store data but the data can't be changed",
+			"answer_c": "VIEWS are temporary tables that store data which store data only for a certain amount of time",
+			"answer_d": "VIEWS are no different that any other tables except they are used for faster loading.",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 215,
+		"question": "Which command is used to modify column names or table structure?",
+		"description": null,
+		"answers": {
+			"answer_a": "MODIFY",
+			"answer_b": "ADD",
+			"answer_c": "CHANGE",
+			"answer_d": "ALTER",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 351,
+		"question": "What is a composite key?",
+		"description": null,
+		"answers": {
+			"answer_a": "its is a key that is defined as the primary key in another table",
+			"answer_b": "it is a key that uniquely identifies a record in a database",
+			"answer_c": "its is an optional key and allows null values",
+			"answer_d": "it is a primary key that consists of more than one field that uniquely identifies a record",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 350,
+		"question": "Normalizations is...",
+		"description": null,
+		"answers": {
+			"answer_a": "concerned with the physical implementation of the database",
+			"answer_b": "a database design technique that encourages storing data in multiple databases",
+			"answer_c": "a database design technique that eliminates relationships from a database",
+			"answer_d": "a database design technique used to minimize data redundancy and duplication",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "true",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 225,
+		"question": "Which command is used to insert a new records in the table?",
+		"description": null,
+		"answers": {
+			"answer_a": "ADD",
+			"answer_b": "INSERT INTO",
+			"answer_c": "INSERT",
+			"answer_d": "NEW",
+			"answer_e": "CREATE",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 329,
+		"question": "How can you change table sctructure after it was created?",
+		"description": null,
+		"answers": {
+			"answer_a": "CHANGE TABLE",
+			"answer_b": "MODIFY TABLE",
+			"answer_c": "ALTER TABLE",
+			"answer_d": "UPDATE TABLE",
+			"answer_e": "It's not possible to change the structure",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 357,
+		"question": "Which of the following scripts will run successfully",
+		"description": null,
+		"answers": {
+			"answer_a": "Users statistics SELECT customer name FROM customers;",
+			"answer_b": "SELECT `customer name` FROM customers WHERE cat_id = 12 ORDER BY cat_id;",
+			"answer_c": "SELECT FROM `customers` 'customer name';",
+			"answer_d": "SELECT `customer name` FROM customers ORDER BY zone WHERE cat_id = 12;",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 375,
+		"question": "Once a table has been created in MySQL, its structure cannot be altered",
+		"description": null,
+		"answers": {
+			"answer_a": "True",
+			"answer_b": "False",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 408,
+		"question": "Which of these is not a valid name for a column",
+		"description": null,
+		"answers": {
+			"answer_a": "To",
+			"answer_b": "Near",
+			"answer_c": "Far",
+			"answer_d": "From",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 355,
+		"question": "The command DROP SCHEMA `STUDENTS`; will delete the students database.",
+		"description": null,
+		"answers": {
+			"answer_a": "True",
+			"answer_b": "False",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 226,
+		"question": "You can add a row using SQL in a database with which of the following?",
+		"description": null,
+		"answers": {
+			"answer_a": "ADD",
+			"answer_b": "CREATE",
+			"answer_c": "INSERT",
+			"answer_d": "MAKE",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 365,
+		"question": "The ASC and DESC keywords can be used in the same statement",
+		"description": null,
+		"answers": {
+			"answer_a": "True",
+			"answer_b": "False",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 379,
+		"question": "What will be the output of the query SELECT * FROM `members` LIMIT 1, 2;",
+		"description": null,
+		"answers": {
+			"answer_a": "the query will generate an error",
+			"answer_b": "the query will return all records from the members table",
+			"answer_c": "the query will return the first 2 records",
+			"answer_d": "the query will return skip the first record then return the following 2 records only",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 345,
+		"question": "Which type of database management system represents relations using tables?",
+		"description": null,
+		"answers": {
+			"answer_a": "Network DBMS",
+			"answer_b": "Hierachical DBMS",
+			"answer_c": "Relational DBMS",
+			"answer_d": "Object Oriented DBMS",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 214,
+		"question": "What does the WHERE SQL operator does:",
+		"description": null,
+		"answers": {
+			"answer_a": "restricts the set of rows to the selection of those records for which the condition is true",
+			"answer_b": "converts the value of a column or function to a different type",
+			"answer_c": "changes the order of output rows",
+			"answer_d": "eliminates all row repeats from the result set",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 397,
+		"question": "Commands passed to the MySQL daemon are written in",
+		"description": null,
+		"answers": {
+			"answer_a": "English",
+			"answer_b": "The Structured Query Language",
+			"answer_c": "Your Choice From Perl, PHP, Java Or Some Other Languages",
+			"answer_d": "Swedish",
+			"answer_e": "Binary",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 376,
+		"question": "The syntax for adding a new column to an existing table is ALTER TABLE `table_name` ADD COLUMN `column_name` `data_type`;",
+		"description": null,
+		"answers": {
+			"answer_a": "True",
+			"answer_b": "False",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 387,
+		"question": "Which function returns reference to Array of row values?",
+		"description": null,
+		"answers": {
+			"answer_a": "Fetch()",
+			"answer_b": "Fetchrow_arrayref()",
+			"answer_c": "Fetchrow_hashref()",
+			"answer_d": "Fetchrow_array()",
+			"answer_e": "Fetchrow_refarray()",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 207,
+		"question": "DISTINCT keyword is used for:",
+		"description": null,
+		"answers": {
+			"answer_a": "There is no such keyword",
+			"answer_b": "For selecting only unique records by a specific field",
+			"answer_c": "To reduce the load on the server with loss of query performance",
+			"answer_d": "To speed up the selection for a specific field",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 438,
+		"question": "The data type BLOB stands for:",
+		"description": null,
+		"answers": {
+			"answer_a": "Binary Large Object",
+			"answer_b": "Big List Object",
+			"answer_c": "Binary List Object",
+			"answer_d": "None of the mentioned",
+			"answer_e": "Binary List Obsolete Object",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 384,
+		"question": "Which program copies databases from one server to another?",
+		"description": null,
+		"answers": {
+			"answer_a": "Mysqlcopydb",
+			"answer_b": "Mysqldbflush",
+			"answer_c": "Mysqlflushdb",
+			"answer_d": "Mysqldbcopy",
+			"answer_e": "Mysqlmovedb",
+			"answer_f": "Mysqldbmove"
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 330,
+		"question": "Which is not a  valid bit operator?",
+		"description": null,
+		"answers": {
+			"answer_a": "&",
+			"answer_b": "&&",
+			"answer_c": "<<",
+			"answer_d": "|",
+			"answer_e": ">>",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "true",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 391,
+		"question": "Which one is the correct declaration for choosing the 'Character Set' other than default?",
+		"description": null,
+		"answers": {
+			"answer_a": "Varchar(20);",
+			"answer_b": "None Of The Mentioned",
+			"answer_c": "Varchar(20) Character Set;",
+			"answer_d": "Varchar(20) Character Set Utf8;",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 244,
+		"question": "What is the default DATE field type format?",
+		"description": null,
+		"answers": {
+			"answer_a": "DD-MM-YYYY",
+			"answer_b": "YYYY-DD-MM",
+			"answer_c": "YYYY-MM-DD",
+			"answer_d": "MM-DD-YY",
+			"answer_e": "MMDDYYYY",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 419,
+		"question": "Which command will delete a table called 'test':",
+		"description": null,
+		"answers": {
+			"answer_a": "DROP TABLE test",
+			"answer_b": "DROP test",
+			"answer_c": "DROP test WHERE Confirm = \"YES\"",
+			"answer_d": "DELETE test WHERE Confirm = \"YES\"",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 424,
+		"question": "DCL is used for _______?",
+		"description": null,
+		"answers": {
+			"answer_a": "Managing the changes made by DML statements",
+			"answer_b": "Inserting, Deleting and Updating data",
+			"answer_c": "Control access to data stored in a database",
+			"answer_d": "None of the above",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 205,
+		"question": "Which operator is included in the data manipulation language (DML)?",
+		"description": null,
+		"answers": {
+			"answer_a": "INSERT",
+			"answer_b": "GRANT",
+			"answer_c": "CREATE",
+			"answer_d": "DROP",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 381,
+		"question": "Sub queries have better performance compared to JOIN queries",
+		"description": null,
+		"answers": {
+			"answer_a": "True",
+			"answer_b": "False",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 432,
+		"question": "Referential integrity is directly related to",
+		"description": null,
+		"answers": {
+			"answer_a": "Relation Key",
+			"answer_b": "Foreign Key",
+			"answer_c": "Unique Key",
+			"answer_d": "Primary Key",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 251,
+		"question": "Which of the following will reset the MySQL password for a particular user?",
+		"description": null,
+		"answers": {
+			"answer_a": "UPDATE mysql.user SET Password=’password’ WHERE User=’username’;",
+			"answer_b": "UPDATE mysql.user SET Password=PASSWORD(‘password’) WHERE User=’username’;",
+			"answer_c": "UPDATE mysql.user SET Password=RESET(‘password’) WHERE User=’username’;",
+			"answer_d": "None of the above",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 421,
+		"question": "In a LIKE clause, you can could ask for any value ending in \"qpt\" by writing",
+		"description": null,
+		"answers": {
+			"answer_a": "LIKE %qpt",
+			"answer_b": "LIKE ^.*ton$",
+			"answer_c": "LIKE ton$",
+			"answer_d": "LIKE *ton",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 352,
+		"question": "Which of the following IS NOT true regarding ER modeling",
+		"description": null,
+		"answers": {
+			"answer_a": "ER models can be converted into a database",
+			"answer_b": "ER models waste the database developer's time",
+			"answer_c": "ER models increase the database developer's productivity",
+			"answer_d": "ER models act as non technical communication tools",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 396,
+		"question": "What kind of replication is supported by the MySQL Server?",
+		"description": null,
+		"answers": {
+			"answer_a": "Multiple-master Replication",
+			"answer_b": "MySQL Doesn't Support Replication",
+			"answer_c": "Master To Slave Replication",
+			"answer_d": "Single File Based Clustering",
+			"answer_e": "Master to Master Replication",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "true",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "true",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 249,
+		"question": "Which query will return values containing strings \"apple\", \"banana\" or \"orange\" in the database?",
+		"description": null,
+		"answers": {
+			"answer_a": "SELECT * FROM table WHERE field REGEXP ‘apple|banana|orange’;",
+			"answer_b": "SELECT * FROM table WHERE field LIKE ‘%apple%’ OR field LIKE ‘%banana%’ OR field LIKE ‘%orange%’;",
+			"answer_c": "SELECT * FROM table WHERE field = ‘%apple%’ OR field = ‘%banana%’ OR field = ‘%orange%’;",
+			"answer_d": "SELECT * FROM table WHERE field = ‘?apple?’ OR field = ‘?banana?’ OR field = ‘?orange?’;",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 353,
+		"question": "A one to many relationship can only contain multiple entries of both primary and foreign keys.",
+		"description": null,
+		"answers": {
+			"answer_a": "True",
+			"answer_b": "False",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 416,
+		"question": "The maximum length of the varchar columns Is",
+		"description": null,
+		"answers": {
+			"answer_a": "Upto 65, 535 Bytes",
+			"answer_b": "Upto 65, 567 Bytes",
+			"answer_c": "Upto 256 Bytes",
+			"answer_d": "None Of The Mentioned",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "SQL",
+		"difficulty": "Medium"
+	},
+	[
+		{
+			"id": 412,
+			"question": "Which command is used to remove all rows from a table?",
+			"description": null,
+			"answers": {
+				"answer_a": "Delete",
+				"answer_b": "Both Delete and Remove",
+				"answer_c": "Truncate",
+				"answer_d": "Remove",
+				"answer_e": "Drop",
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "true",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 474,
+			"question": "What type of join is needed when you wish to return rows that have matching values?",
+			"description": null,
+			"answers": {
+				"answer_a": "Equi-join",
+				"answer_b": "All of the mentioned.",
+				"answer_c": "Outer join",
+				"answer_d": "Natural join",
+				"answer_e": "None of the mentioned.",
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "true",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 335,
+			"question": "Which of the following is not a SQL operator?",
+			"description": null,
+			"answers": {
+				"answer_a": "Between .. and ..",
+				"answer_b": "Like",
+				"answer_c": "In",
+				"answer_d": "Is null",
+				"answer_e": "Not in",
+				"answer_f": "All of the above are valid SQL operators"
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "true",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 336,
+			"question": "Which of the following is not a valid comparison operator?",
+			"description": null,
+			"answers": {
+				"answer_a": "==",
+				"answer_b": "<>",
+				"answer_c": "<=>",
+				"answer_d": "!=",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 433,
+			"question": "_____ is process of extracting previously non known valid and actionable information from large data to make crucial business and strategic decisions.",
+			"description": null,
+			"answers": {
+				"answer_a": "Data Management",
+				"answer_b": "Meta Data",
+				"answer_c": "Data Mining",
+				"answer_d": "Database",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "true",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 403,
+			"question": "How many distinct, different values can you hold in an Enum field?",
+			"description": null,
+			"answers": {
+				"answer_a": "255",
+				"answer_b": "2 (True And False)",
+				"answer_c": "65535",
+				"answer_d": "7",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "true",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 377,
+			"question": "The employees table has 20 records, what will be the output of the query SELECT gender FROM employees GROUP BY gender;",
+			"description": null,
+			"answers": {
+				"answer_a": "the query will return two rows only",
+				"answer_b": "the query will not return any records",
+				"answer_c": "the query will return 20 records",
+				"answer_d": "the query will generate an error message",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 253,
+			"question": "How to dump the whole MySQL database to a file?",
+			"description": null,
+			"answers": {
+				"answer_a": "mysql -e \"select * from table\" -u user -pxxxxxxx database > dumpfile.txt",
+				"answer_b": "mysql -e \"select * from table\" database > dumpfile.txt",
+				"answer_c": "SELECT * from table FIELDS TERMINATED BY ',' ENCLOSED BY \"\" LINES TERMINATED BY 'n'",
+				"answer_d": "None of the above",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "true",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 327,
+			"question": "What is the meaning of \"overhead\" in MySQL?",
+			"description": null,
+			"answers": {
+				"answer_a": "Temporary diskspace that the database uses to run some of the queries",
+				"answer_b": "The size of a table",
+				"answer_c": "A tablespace name",
+				"answer_d": "None of the above",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 374,
+			"question": "What will be the effect of inserting 500 rows in a table with the following definition. CREATE TABLE `categories` ( `category_id` tinyint(3) AUTO_INCREMENT, `category_name` varchar(150) DEFAULT NULL, `remarks` varchar(500) DEFAULT NULL, PRIMARY KEY",
+			"description": null,
+			"answers": {
+				"answer_a": "500 rows will be inserted into the table",
+				"answer_b": "only 100 rows will be inserted",
+				"answer_c": "a table with the above definition is not possible",
+				"answer_d": "half the records will be inserted then an error will be generated",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "true",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 232,
+			"question": "Which of the following statements are true about SQL injection attacks?",
+			"description": null,
+			"answers": {
+				"answer_a": "Wrapping all variables containing user input by a call to mysql_real_escape_string() makes the code immune to SQL injections.",
+				"answer_b": "Parametrized queries do not make code less vulnearable to SQL injections.",
+				"answer_c": "SQL injections are not possible, if only emulated prepared statements are used.",
+				"answer_d": "Usage of later versions of MySQL, validation, and explicit setting of the charset of user input are valid measures to decrease vulnerability to SQL injections.",
+				"answer_e": "None of the above",
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 331,
+			"question": "What is the best advantage of InnoDB over MyISAM?",
+			"description": null,
+			"answers": {
+				"answer_a": "InnoDB is thread safe",
+				"answer_b": "InnoDB provides a transaction safe environment",
+				"answer_c": "InnoDB can handle table with more than 1000 columns",
+				"answer_d": "InnoDB provides FULLTEXT indexes",
+				"answer_e": "None of the above",
+				"answer_f": "All of the above"
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 430,
+			"question": "Data Warehouse provides",
+			"description": null,
+			"answers": {
+				"answer_a": "Transaction Responsiveness",
+				"answer_b": "Demand and Supply Responsiveness",
+				"answer_c": "Storage, Functionality Responsiveness to queries",
+				"answer_d": "None of these",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "true",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 441,
+			"question": "A table that displays data redundancies yields ________ anomalies",
+			"description": null,
+			"answers": {
+				"answer_a": "Insertion",
+				"answer_b": "All of options",
+				"answer_c": "Update",
+				"answer_d": "Deletion",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "true",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 431,
+			"question": "Which of the following is true?",
+			"description": null,
+			"answers": {
+				"answer_a": "A relation in BCNF is always in 3NF",
+				"answer_b": "BCNF and 3NF are same.",
+				"answer_c": "A relation in BCNF is not in 3NF.",
+				"answer_d": "A relation in 3NF is always in BCNF.",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 428,
+			"question": "Which level of Abstraction describes what data are stored in the Database?",
+			"description": null,
+			"answers": {
+				"answer_a": "Physical Level",
+				"answer_b": "Logical Level",
+				"answer_c": "Abstraction Level",
+				"answer_d": "View Level",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "true",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "true",
+				"answer_c_correct": "false",
+				"answer_d_correct": "true",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 337,
+			"question": "Which of the following is not a MySQL statement?",
+			"description": null,
+			"answers": {
+				"answer_a": "ENUMERATE",
+				"answer_b": "EXPLAIN",
+				"answer_c": "KILL",
+				"answer_d": "LOAD DATA",
+				"answer_e": "SET",
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 406,
+			"question": "In a LIKE clause, you can ask for any 6 Letter Value by writing:",
+			"description": null,
+			"answers": {
+				"answer_a": "LIKE .{6}",
+				"answer_b": "LIKE ??????",
+				"answer_c": "LIKE ^.{6}$",
+				"answer_d": "LIKE ______ (Six Underscore Characters)",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "true",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 383,
+			"question": "What will be the effect of the query SELECT c.*,e.* FROM clients c INNER JOIN employees e ON c.emp_no = e.emp_no;",
+			"description": null,
+			"answers": {
+				"answer_a": "return all the records from the clients table and only those that match the emp_no from the employees table",
+				"answer_b": "The query will generate an error",
+				"answer_c": "return all the records from the employees table and only those that match the emp_no from the clients table",
+				"answer_d": "return only records that have matching emp_no values in both tables",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "true",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 400,
+			"question": "One of the early proponents of a Relational Database who laid down many of the principles we use to this day was:",
+			"description": null,
+			"answers": {
+				"answer_a": "Xigang Koi",
+				"answer_b": "Mahatma Coate",
+				"answer_c": "William Crawford",
+				"answer_d": "Edgar Codd",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "true",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "MySQL"
+				}
+			],
+			"category": "SQL",
+			"difficulty": "Hard"
+		}
+	]
+]

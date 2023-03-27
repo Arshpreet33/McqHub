@@ -1,0 +1,1924 @@
+[
+	{
+		"id": 990,
+		"question": "What is the correct JavaScript syntax for opening a new window called \"w2\" ?",
+		"description": null,
+		"answers": {
+			"answer_a": "w2 = window.new(\"http://www.w3schools.com\");",
+			"answer_b": "w2 = window.open(\"http://www.w3schools.com\");",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "JavaScript"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 492,
+		"question": "Which of the following tags represents a section of the document intended for navigation in HTML5?",
+		"description": null,
+		"answers": {
+			"answer_a": "footer",
+			"answer_b": "dialog",
+			"answer_c": "section",
+			"answer_d": "nav",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 756,
+		"question": "Which of the following type of variables have only two possible values either true or false?",
+		"description": null,
+		"answers": {
+			"answer_a": "Integers",
+			"answer_b": "Doubles",
+			"answer_c": "Booleans",
+			"answer_d": "Strings",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": "Booleans: have only two possible values either true or false.",
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 1063,
+		"question": "What is service container in Laravel?",
+		"description": null,
+		"answers": {
+			"answer_a": "Service container is a tool used for performing dependency injection in Laravel.",
+			"answer_b": "Dockerized Laravel applications are called service containers.",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Laravel"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 991,
+		"question": "JavaScript is the same as Java.",
+		"description": null,
+		"answers": {
+			"answer_a": "False",
+			"answer_b": "True",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "JavaScript"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 503,
+		"question": "Which tag allows you to add a row in a table?",
+		"description": null,
+		"answers": {
+			"answer_a": "<td> and </td>",
+			"answer_b": "<tr> and </tr>",
+			"answer_c": "<th> and </th>",
+			"answer_d": "<cr> and </cr>",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 545,
+		"question": "PHP is a ________________________",
+		"description": "A loosely typed language such as PHP is a language that does not require you to declare a variable type when declaring a variable",
+		"answers": {
+			"answer_a": "Tightly typed language",
+			"answer_b": "Client typed language",
+			"answer_c": "Server typed language",
+			"answer_d": "Loosely typed language",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 975,
+		"question": "Where is the correct place to insert a JavaScript?",
+		"description": null,
+		"answers": {
+			"answer_a": "The <head> section",
+			"answer_b": "The <body> section",
+			"answer_c": "The <footer>",
+			"answer_d": "Both the <head> section and the <body> section are correct",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "JavaScript"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 447,
+		"question": "The BODY Tag is usually used after",
+		"description": null,
+		"answers": {
+			"answer_a": "EM Tag",
+			"answer_b": "HEAD Tag",
+			"answer_c": "HTML Tag",
+			"answer_d": "TITLE Tag",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 615,
+		"question": "What does the unlink() function do?",
+		"description": null,
+		"answers": {
+			"answer_a": "The unlink() function is dedicated for file system handling. It simply deletes the file given as entry.",
+			"answer_b": "The unlink() function is not dedicated for file system handling. It does not deletes the file given as entry.",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 475,
+		"question": "How can you make A bulleted list with numbers?",
+		"description": null,
+		"answers": {
+			"answer_a": "<dl>",
+			"answer_b": "<ul>",
+			"answer_c": "<ol>",
+			"answer_d": "<list>",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 988,
+		"question": "How do you round the number 7.25, to the nearest integer?",
+		"description": null,
+		"answers": {
+			"answer_a": "Math.round(7.25)",
+			"answer_b": "round(7.25)",
+			"answer_c": "rnd(7.25)",
+			"answer_d": "Math.rnd(7.25)",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "JavaScript"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 775,
+		"question": "Using which of the following way can you embed PHP code in an HTML page?",
+		"description": null,
+		"answers": {
+			"answer_a": "<?php PHP code goes here ?>",
+			"answer_b": "<?php PHP code goes here php?>",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "true",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 605,
+		"question": "How can you pass a variable by reference?",
+		"description": null,
+		"answers": {
+			"answer_a": "$var1 = &$var2",
+			"answer_b": "$var1 == &$var2",
+			"answer_c": "$var1 === &$var2",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 467,
+		"question": "What type of a language is HTML?",
+		"description": null,
+		"answers": {
+			"answer_a": "Scripting Language",
+			"answer_b": "Markup Language",
+			"answer_c": "Programming Language",
+			"answer_d": "Network Protocol",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 506,
+		"question": "Which of the following are commonly found in web pages?",
+		"description": null,
+		"answers": {
+			"answer_a": "internet",
+			"answer_b": "hyperlinks",
+			"answer_c": "intranet",
+			"answer_d": "all of the above",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 604,
+		"question": "Will a comparison of an integer 12 and a string \"13\" work in PHP?",
+		"description": null,
+		"answers": {
+			"answer_a": "True",
+			"answer_b": "False",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": "In PHP you can compare strings with numbers.",
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 491,
+		"question": "Which of the following is true about HTML 5?",
+		"description": null,
+		"answers": {
+			"answer_a": "HTML5 is the next major revision of the HTML standard superseding HTML 4.01, XHTML 1.0, and XHTML 1.1.",
+			"answer_b": "HTML5 is a cooperation between the World Wide Web Consortium (W3C) and the Web Hypertext Application Technology Working Group (WHATWG).",
+			"answer_c": "HTML5 is a standard for structuring and presenting content on the World Wide Web",
+			"answer_d": "All of These",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 508,
+		"question": "A homepage is __________",
+		"description": null,
+		"answers": {
+			"answer_a": "an index of encyclopedia articles",
+			"answer_b": "the first page of a website",
+			"answer_c": "required for access to the Internet",
+			"answer_d": "where all Internet data is stored",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 606,
+		"question": "How is a constant defined in a PHP script?",
+		"description": null,
+		"answers": {
+			"answer_a": "define (\"ACONSTANT\" 123)",
+			"answer_b": "define (\"ACONSTANT\", 123);",
+			"answer_c": "define (CONSTANT, 123);",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 472,
+		"question": "Who is known as the father of world wide web (WWW)?",
+		"description": null,
+		"answers": {
+			"answer_a": "Robert Cailliau",
+			"answer_b": "Charles Darwin",
+			"answer_c": "Tim Thompson",
+			"answer_d": "Tim Berners-Lee",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 539,
+		"question": "How can we define a Video Tag in HTML 5?",
+		"description": null,
+		"answers": {
+			"answer_a": "<video src \"URL\"></video>",
+			"answer_b": "<video src=\"URL\"></video>",
+			"answer_c": "<video></video>",
+			"answer_d": "<video src:\"URL\"></video>",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 621,
+		"question": "Which function gives us the number of affected entries by a MySQL query?",
+		"description": null,
+		"answers": {
+			"answer_a": "mysqli_affected_rows() return the number of entries affected by an SQL query.",
+			"answer_b": "mysqli_rows() return the number of entries affected by an SQL query.",
+			"answer_c": "mysqli_num_rows() return the number of entries affected by an SQL query.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 630,
+		"question": "What is the use of the function 'imagetypes()'?",
+		"description": null,
+		"answers": {
+			"answer_a": "imagetypes() gives the image size and types supported by the current version of GH-PHP.",
+			"answer_b": "imagetypes() gives the image format and types supported by the current version of GD-PHP.",
+			"answer_c": "imagetypes() is not a real function",
+			"answer_d": "imagetypes() hasn't been used since PHP4 and it's not being supported.",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 598,
+		"question": "How can we initiate a session in PHP?",
+		"description": null,
+		"answers": {
+			"answer_a": "$_session_start()",
+			"answer_b": "session_start()",
+			"answer_c": "$session_start()",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 766,
+		"question": "Which of the following method of Exception class returns formated string of trace?",
+		"description": null,
+		"answers": {
+			"answer_a": "getMessage()",
+			"answer_b": "getCode()",
+			"answer_c": "getTrace()",
+			"answer_d": "getTraceAsString()",
+			"answer_e": "getString()",
+			"answer_f": "getTraceString()"
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": "getTraceAsString() method of Exception class returns formated string of trace.",
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 548,
+		"question": "Which of the following is used to add multiple line comments in PHP ?",
+		"description": null,
+		"answers": {
+			"answer_a": "//",
+			"answer_b": "/* */",
+			"answer_c": "{{ }}",
+			"answer_d": "{/ \\}",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 496,
+		"question": "Which of the following is correct about geolocation api in HTML5?",
+		"description": null,
+		"answers": {
+			"answer_a": "HTML5 Geolocation API lets you share your location with your favorite web sites.",
+			"answer_b": "A Javascript can capture your latitude and longitude and can be sent to backend web server and do fancy location-aware things like finding local businesses or showing your location on a map.",
+			"answer_c": "Today most of the browsers and mobile devices support Geolocation API.",
+			"answer_d": "All of these",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 498,
+		"question": "Which of the following attribute triggers event after the document is printed?",
+		"description": null,
+		"answers": {
+			"answer_a": "offlineprint",
+			"answer_b": "onbeforeprint",
+			"answer_c": "onafterprint",
+			"answer_d": "onprint",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 569,
+		"question": "Which of the following function returns the number of characters in a string variable?",
+		"description": null,
+		"answers": {
+			"answer_a": "count($variable)",
+			"answer_b": "strlen($variable)",
+			"answer_c": "strcount($variable)",
+			"answer_d": "len($variable)",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 785,
+		"question": "If we want to open a file for reading and writing which mode of the function fopen() are we going to use:",
+		"description": null,
+		"answers": {
+			"answer_a": "r+",
+			"answer_b": "w+",
+			"answer_c": "r",
+			"answer_d": "x",
+			"answer_e": "x+",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "true",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 576,
+		"question": "How can we add comments in PHP?",
+		"description": null,
+		"answers": {
+			"answer_a": "// commented code to end of line",
+			"answer_b": "/* commented code here */",
+			"answer_c": "# commented code to end of line",
+			"answer_d": "all of the above",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 762,
+		"question": "Which of the following is used to destroy the session?",
+		"description": null,
+		"answers": {
+			"answer_a": "session_start() function",
+			"answer_b": "$_SESSION[]",
+			"answer_c": "isset() function",
+			"answer_d": "session_destroy() function",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": "A PHP session can be destroyed by the session_destroy() function.",
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 634,
+		"question": "How is the comparison of objects done in PHP?",
+		"description": null,
+		"answers": {
+			"answer_a": "We use the operator '===' to test two objects are instanced from the same class and have same attributes and equal values.",
+			"answer_b": "We use the operator '=' to test two objects are instanced from the same class and have same attributes and equal values.",
+			"answer_c": "We use the operator '==' to test two objects are instanced from the same class and have same attributes and equal values.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 449,
+		"question": "A much better approach to establish the base URL is to use the ______ element.",
+		"description": null,
+		"answers": {
+			"answer_a": "BODY",
+			"answer_b": "HEAD",
+			"answer_c": "BASE",
+			"answer_d": "None Of The Above",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 554,
+		"question": "How many error levels are available in PHP ?",
+		"description": null,
+		"answers": {
+			"answer_a": "20",
+			"answer_b": "16",
+			"answer_c": "19",
+			"answer_d": "4",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 767,
+		"question": "Which of the following method of Exception class returns source line?",
+		"description": null,
+		"answers": {
+			"answer_a": "getMessage()",
+			"answer_b": "getCode()",
+			"answer_c": "getFile()",
+			"answer_d": "getLine()",
+			"answer_e": "getSource()",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": "getLine() method of Exception class returns source line.",
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 610,
+		"question": "Is it possible to remove the HTML tags from passed data?",
+		"description": null,
+		"answers": {
+			"answer_a": "The stripTags() function enables us to clean a string from the HTML tags.",
+			"answer_b": "The strip_tags() function enables us to clean a string from the HTML tags.",
+			"answer_c": "The string_tags() function enables us to clean a string from the HTML tags.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 526,
+		"question": "When would you use path along with file name of a picture in an IMG tag?",
+		"description": null,
+		"answers": {
+			"answer_a": "path is optional and not necessary",
+			"answer_b": "when image file and html file both are on same location d.",
+			"answer_c": "path is always necessary when inserting image",
+			"answer_d": "when the location of image file and html file are different",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 529,
+		"question": "The way the browser displays the object can be modified by _____",
+		"description": null,
+		"answers": {
+			"answer_a": "attributes",
+			"answer_b": "modifiers",
+			"answer_c": "parameters",
+			"answer_d": "None of above",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Code",
+		"difficulty": "Medium"
+	},
+	[
+		{
+			"id": 585,
+			"question": "What is the default session time in PHP?",
+			"description": null,
+			"answers": {
+				"answer_a": "The default session time in php is until the closing of the browser",
+				"answer_b": "The default session time in php is until the closing of the page",
+				"answer_c": "The default session time in php is until the closing of the system",
+				"answer_d": null,
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "PHP"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 542,
+			"question": "Why do we need HTML5 Server-Sent Events?",
+			"description": null,
+			"answers": {
+				"answer_a": "Server-Sent Events (SSE) is a recent HTML5 specification in combination with the EventSource API designed for streaming updates.",
+				"answer_b": "Server-Sent Events (SSE) is a recent HTML5 specification in combination with the EventSource API designed for getting POST and GET request.",
+				"answer_c": null,
+				"answer_d": null,
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "HTML"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 541,
+			"question": "What is the use of Scalable Vector Graphics (SVG) in HTML5?",
+			"description": null,
+			"answers": {
+				"answer_a": "Scalable Vector Graphics (SVG) is the part of the vector-based family of graphics. There are various forms of Raster-based graphics available that stores the color definition for each pixel in an array of data.",
+				"answer_b": "Scalable Vector Graphics (SVG) is the part of the colored-based family of graphics. There are various forms of Raster-based graphics available that stores the design definition for each pixel in an array of data.",
+				"answer_c": null,
+				"answer_d": null,
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "HTML"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 471,
+			"question": "Apart from the <b> tag, what other Tag makes text bold ?",
+			"description": null,
+			"answers": {
+				"answer_a": "<emp>",
+				"answer_b": "<strong>",
+				"answer_c": "<fat>",
+				"answer_d": "<black>",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "true",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "HTML"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 641,
+			"question": "What does PEAR stand for?",
+			"description": null,
+			"answers": {
+				"answer_a": "PHP Export and Application Repository.",
+				"answer_b": "PHP Extension and Application Repository.",
+				"answer_c": "PHP External and Application Repository.",
+				"answer_d": null,
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "true",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "PHP"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 444,
+			"question": "Which of following is not an attribute of <form> tag",
+			"description": null,
+			"answers": {
+				"answer_a": "Action",
+				"answer_b": "url",
+				"answer_c": "name",
+				"answer_d": "Method",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "true",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "HTML"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 768,
+			"question": "Which of the following is used to check that a cookie is set or not?",
+			"description": null,
+			"answers": {
+				"answer_a": "getcookie() function",
+				"answer_b": "$_COOKIE variable",
+				"answer_c": "isset() function",
+				"answer_d": "None of the above.",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "true",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": null,
+			"explanation": "You can use isset() function to check if a cookie is set or not.",
+			"tip": null,
+			"tags": [
+				{
+					"name": "PHP"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 454,
+			"question": "Which HTML Tag is used to define a client - side script such as the Javascript?",
+			"description": null,
+			"answers": {
+				"answer_a": "<unscript>",
+				"answer_b": "None Of The Above",
+				"answer_c": "Both Above",
+				"answer_d": "<script>",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "true",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "HTML"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 481,
+			"question": "Intensity of a color can be described through",
+			"description": null,
+			"answers": {
+				"answer_a": "Hue",
+				"answer_b": "Grayscale",
+				"answer_c": "Lightness",
+				"answer_d": "Saturation",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "true",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "HTML"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 786,
+			"question": "If we want to be sure a file will be created if it doesn't exesit with fopen() which mode of the function are we going ot use:",
+			"description": null,
+			"answers": {
+				"answer_a": "a",
+				"answer_b": "a+",
+				"answer_c": "r+",
+				"answer_d": "w+",
+				"answer_e": "x+",
+				"answer_f": "x"
+			},
+			"multiple_correct_answers": "true",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "true",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": null,
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "PHP"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 514,
+			"question": "What is the full form of HTTP?",
+			"description": null,
+			"answers": {
+				"answer_a": "Hyper text transfer package",
+				"answer_b": "Hyphenation text test program",
+				"answer_c": "Hyper text transfer protocol",
+				"answer_d": "none of the above",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "true",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "HTML"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 494,
+			"question": "Which of the following is true about Cookies?",
+			"description": null,
+			"answers": {
+				"answer_a": "Cookies are limited to about 4 KB of data . Not enough to store required data.",
+				"answer_b": "Cookies are included with every HTTP request, thereby slowing down your web application by transmitting the same data.",
+				"answer_c": "Cookies are included with every HTTP request, thereby sending data unencrypted over the internet.",
+				"answer_d": "All of the above.",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "true",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "HTML"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 459,
+			"question": "Which of the following will create the so called Hamburger Menu?",
+			"description": null,
+			"answers": {
+				"answer_a": "Icon-prev",
+				"answer_b": "Icon-next",
+				"answer_c": "Img-circle",
+				"answer_d": "Icon-bar",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "true",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "HTML"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 495,
+			"question": "Which value of Socket.readyState atribute of WebSocket indicates that the connection has been closed or could not be opened?",
+			"description": null,
+			"answers": {
+				"answer_a": "0",
+				"answer_b": "1",
+				"answer_c": "2",
+				"answer_d": "3",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "true",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "HTML"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 486,
+			"question": "Which of the following is a declaration for an HTML document?",
+			"description": null,
+			"answers": {
+				"answer_a": "<html>.....</html>",
+				"answer_b": "<p>.....</p>",
+				"answer_c": "<!DOCTYPE Html>",
+				"answer_d": "<body>.....</body>",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "true",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "HTML"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 607,
+			"question": "Which cryptographic extension provides generation and verification of digital signatures?",
+			"description": null,
+			"answers": {
+				"answer_a": "PHP-CloseSSL",
+				"answer_b": "PHP-SSL",
+				"answer_c": "PHP-OpenSSL",
+				"answer_d": null,
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "false",
+				"answer_c_correct": "true",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "PHP"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 493,
+			"question": "Which of the following input control represents a date and time (year, month, day, hour, minute, second, fractions of a second) encoded according to ISO 8601 with the time zone set to UTC in Web Form 2.0?",
+			"description": null,
+			"answers": {
+				"answer_a": "datetime",
+				"answer_b": "datetime-local",
+				"answer_c": "month",
+				"answer_d": "date",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "BASH"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 591,
+			"question": "What is the function to parse a configuration file?",
+			"description": null,
+			"answers": {
+				"answer_a": "parseini_file()",
+				"answer_b": "parse_ini_file()",
+				"answer_c": "parse_ini()",
+				"answer_d": null,
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "false",
+				"answer_b_correct": "true",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "PHP"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 518,
+			"question": "What does vlink attribute mean?",
+			"description": null,
+			"answers": {
+				"answer_a": "visited link",
+				"answer_b": "active link",
+				"answer_c": "very good link",
+				"answer_d": "virtual link",
+				"answer_e": null,
+				"answer_f": null
+			},
+			"multiple_correct_answers": "false",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "false",
+				"answer_c_correct": "false",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": "answer_a",
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "HTML"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		},
+		{
+			"id": 790,
+			"question": "Which of the mentioned are the neccessary/mandatory arguments of the mail function.",
+			"description": null,
+			"answers": {
+				"answer_a": "to",
+				"answer_b": "subject",
+				"answer_c": "message",
+				"answer_d": "headers",
+				"answer_e": "parameters",
+				"answer_f": "number of recepients"
+			},
+			"multiple_correct_answers": "true",
+			"correct_answers": {
+				"answer_a_correct": "true",
+				"answer_b_correct": "true",
+				"answer_c_correct": "true",
+				"answer_d_correct": "false",
+				"answer_e_correct": "false",
+				"answer_f_correct": "false"
+			},
+			"correct_answer": null,
+			"explanation": null,
+			"tip": null,
+			"tags": [
+				{
+					"name": "PHP"
+				}
+			],
+			"category": "Code",
+			"difficulty": "Hard"
+		}
+	]
+]

@@ -10,5 +10,8 @@ namespace Persistence
     }
 
     public DbSet<Category>? Categories { get; set; }
+    public DbSet<Topic>? Topics { get; set; }
+    public DbSet<Question>? Questions { get; set; }
+    public DbSet<Answer>? Answers { get; set; }
   }
 }

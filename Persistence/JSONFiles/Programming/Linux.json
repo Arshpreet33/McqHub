@@ -1,0 +1,1890 @@
+[
+	{
+		"id": 654,
+		"question": "Which option can be used with ‘rm’ command to prompt for file removal?",
+		"description": null,
+		"answers": {
+			"answer_a": "-ask",
+			"answer_b": "-i",
+			"answer_c": "-c",
+			"answer_d": "-n",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 658,
+		"question": "Which command can introduce clock delay?",
+		"description": null,
+		"answers": {
+			"answer_a": "sleep",
+			"answer_b": "wait",
+			"answer_c": "suspend",
+			"answer_d": "delay",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 47,
+		"question": "What is the name of a Linux utility used for managing software packages on Red Hat and Red Hat-based Linux distributions?",
+		"description": null,
+		"answers": {
+			"answer_a": "yum",
+			"answer_b": "apt",
+			"answer_c": "apt-get",
+			"answer_d": "grub",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 711,
+		"question": "Are arrays supported in shell scripts?",
+		"description": null,
+		"answers": {
+			"answer_a": "True",
+			"answer_b": "False",
+			"answer_c": "Yes but only under certain conditions",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			},
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 733,
+		"question": "How to watch rolling update status of \"frontend\" deployment until completion in Kubernetes?",
+		"description": null,
+		"answers": {
+			"answer_a": "kubectl rollout status --live deployment/frontend",
+			"answer_b": "kubectl rollout status -w deployment/frontend",
+			"answer_c": "kubectl rollout status -l deployment/frontend",
+			"answer_d": "kubectl rollout status -s deployment/frontend",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 716,
+		"question": "An abstraction in kubernetes which defines a logical set of pods and a policy to access them.",
+		"description": null,
+		"answers": {
+			"answer_a": "node",
+			"answer_b": "cluster",
+			"answer_c": "service",
+			"answer_d": "set",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": "A service is a grouping of pods that are running on the cluster. Services are \"cheap\" and you can have many services within the cluster.",
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 1081,
+		"question": "Where are the online repositories configured on a Debian/Ubuntu Machine",
+		"description": null,
+		"answers": {
+			"answer_a": "/etc/apt/sources.list",
+			"answer_b": "/etc/apt/yum.repos",
+			"answer_c": "/etc/fstab",
+			"answer_d": "/etc/apt/repos",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 657,
+		"question": "Which command can give disk usage summary?",
+		"description": null,
+		"answers": {
+			"answer_a": "chkdsk",
+			"answer_b": "fdisk",
+			"answer_c": "du",
+			"answer_d": "df",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 692,
+		"question": "Which service runs on each Kubernetes node and ensures containers are running in a pod?",
+		"description": null,
+		"answers": {
+			"answer_a": "etcd",
+			"answer_b": "kubelet",
+			"answer_c": "scheduler",
+			"answer_d": "kubeadm",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": "The kubelet is the primary “node agent” that runs on each node. It can register the node with the apiserver using one of: the hostname; a flag to override the hostname; or specific logic for a cloud provider.",
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 714,
+		"question": "What could be used to program additional authentication logic besides available authenticator modules?",
+		"description": null,
+		"answers": {
+			"answer_a": "Kube Vault",
+			"answer_b": "Authentication Proxy",
+			"answer_c": "Kube Auth Service",
+			"answer_d": "Kubernetes Role Manager",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": "Using Authentication Proxy, the API server can extract the information it needs about the user’s identity using the HTTP headers that you specify. Let’s have a quick example to demonstrate this concept:",
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 748,
+		"question": "The API server is also known as:",
+		"description": null,
+		"answers": {
+			"answer_a": "kubeapi",
+			"answer_b": "kube-server",
+			"answer_c": "k8s-apiserver",
+			"answer_d": "kube-apiserver",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 13,
+		"question": "What command, followed by the directory name is used to access that specific directory?",
+		"description": null,
+		"answers": {
+			"answer_a": "cp",
+			"answer_b": "cd",
+			"answer_c": "access",
+			"answer_d": "acs",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_b",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 709,
+		"question": "Which special namespace is used for special purposes like bootstrapping a cluster?",
+		"description": null,
+		"answers": {
+			"answer_a": "default",
+			"answer_b": "kube-public",
+			"answer_c": "kube-private",
+			"answer_d": "kube-default",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": "The kube-public namespace is created automatically and is readable by all users (including those not authenticated). This namespace is mostly reserved for cluster usage, in case that some resources should be visible and readable publicly throughout the whole cluster. The public aspect of this namespace is only a convention, not a requirement.",
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 653,
+		"question": "What is the ls switch  to view the inode numbers",
+		"description": null,
+		"answers": {
+			"answer_a": "-i",
+			"answer_b": "-n",
+			"answer_c": "-d",
+			"answer_d": "-a",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 18,
+		"question": "Which is the best tool to use for logging in remotely?",
+		"description": null,
+		"answers": {
+			"answer_a": "rsh",
+			"answer_b": "ssh",
+			"answer_c": "telnet",
+			"answer_d": "login",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_b",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 34,
+		"question": "Which command is used to create file archives in Linux?",
+		"description": null,
+		"answers": {
+			"answer_a": "arc",
+			"answer_b": "zip",
+			"answer_c": "ps",
+			"answer_d": "tar",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_d",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 31,
+		"question": "What command is used to count the total number of lines, words, and characters contained in a file?",
+		"description": null,
+		"answers": {
+			"answer_a": "count p",
+			"answer_b": "wc",
+			"answer_c": "wcount",
+			"answer_d": "countw",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_b",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 694,
+		"question": "Which command can be used to rename a file/directory?",
+		"description": null,
+		"answers": {
+			"answer_a": "mv",
+			"answer_b": "cp",
+			"answer_c": "rename",
+			"answer_d": "rm",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			},
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 652,
+		"question": "What is the She-bang line in a shell script",
+		"description": null,
+		"answers": {
+			"answer_a": "#",
+			"answer_b": "#!",
+			"answer_c": "!#",
+			"answer_d": "None of the above",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 49,
+		"question": "Which of the following key combinations allows to terminate the current process in Linux shell?",
+		"description": null,
+		"answers": {
+			"answer_a": "Ctrl + C",
+			"answer_b": "Ctrl + Z",
+			"answer_c": "Ctrl + A",
+			"answer_d": "Ctrl + L",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 1079,
+		"question": "Which command do we need to execute to check the available repos in yum (CentOS)",
+		"description": null,
+		"answers": {
+			"answer_a": "yum repolist",
+			"answer_b": "yum listrepo",
+			"answer_c": "yum searchrepo",
+			"answer_d": "yum reposearch",
+			"answer_e": "yum reposhow",
+			"answer_f": "yum showrepo"
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 683,
+		"question": "Expand UFS in context of file system?",
+		"description": null,
+		"answers": {
+			"answer_a": "UNIX File system.",
+			"answer_b": "Linux File System.",
+			"answer_c": "Plain File System.",
+			"answer_d": "Linux Failing System.",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			},
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 27,
+		"question": "What is the most common procedure for compiling programs under Linux?",
+		"description": null,
+		"answers": {
+			"answer_a": "compile file_name",
+			"answer_b": "gcc file_name",
+			"answer_c": "./configure && make && make install",
+			"answer_d": "make file_name",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_c",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 44,
+		"question": "Which of the following answers refers to a Linux command-line command used for configuring network interface parameters specific to the wireless communication?",
+		"description": null,
+		"answers": {
+			"answer_a": "net config",
+			"answer_b": "ifconfig",
+			"answer_c": "networksetup",
+			"answer_d": "iwconfig",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_d",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 688,
+		"question": "What is an internal command?",
+		"description": null,
+		"answers": {
+			"answer_a": "Shell built in commands are called as internal commands.",
+			"answer_b": "Shell commands which are executed on the local machine are called internal commands.",
+			"answer_c": "Every command which comes with the default installation of Linux is called internal command with some small exceptions like really old commands.",
+			"answer_d": "Every command which has been developed by the new generation of Linux is considered an internal command.",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			},
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 1072,
+		"question": "If we wish to mount a directory with Read Only option, which of the following is correct",
+		"description": null,
+		"answers": {
+			"answer_a": "mount -t ext4 -o noexect,ro /path/to-dir /mnt/folder",
+			"answer_b": "mount ext4 -no-read-only /path/to-dir /mnt/folder",
+			"answer_c": "mount -t ext4 -o noexect,ro /mnt/folder /path/to-dir",
+			"answer_d": "mount ext4 -no-read-only /mnt/folder /path/to-dir",
+			"answer_e": "mount ext4 noexect,ro /path/to-dir /mnt/folder",
+			"answer_f": "mount ext4 -no-read-only /mnt/folder /path/to-dir"
+		},
+		"multiple_correct_answers": "true",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 689,
+		"question": "Which command can be used to know the terminal type?",
+		"description": null,
+		"answers": {
+			"answer_a": "tty",
+			"answer_b": "pts",
+			"answer_c": "who",
+			"answer_d": "terminal",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			},
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 746,
+		"question": "How to dump current cluster state to stdout in Kubernetes?",
+		"description": null,
+		"answers": {
+			"answer_a": "kubectl cluster-info show",
+			"answer_b": "kubectl cluster-status",
+			"answer_c": "kubectl cluster info",
+			"answer_d": "kubectl cluster-info dump",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 235,
+		"question": "Which arithmetic operator you can not use?",
+		"description": null,
+		"answers": {
+			"answer_a": "+",
+			"answer_b": "-",
+			"answer_c": "*",
+			"answer_d": "\\",
+			"answer_e": "%",
+			"answer_f": "All are valid"
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "MySQL"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 673,
+		"question": "Which command can be used to make variables of shell to be made available to sub shell?",
+		"description": null,
+		"answers": {
+			"answer_a": "import",
+			"answer_b": "export",
+			"answer_c": "echo",
+			"answer_d": "set",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 666,
+		"question": "Which command is used to print the directory stack?",
+		"description": null,
+		"answers": {
+			"answer_a": "popd",
+			"answer_b": "dir",
+			"answer_c": "ls -d",
+			"answer_d": "dirs",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 536,
+		"question": "HTML documents are saved in",
+		"description": null,
+		"answers": {
+			"answer_a": "Special binary format",
+			"answer_b": "Machine language codes",
+			"answer_c": "ASCII text",
+			"answer_d": "None of above",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "HTML"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 660,
+		"question": "What is the option to mention field separator for the command ‘cut’",
+		"description": null,
+		"answers": {
+			"answer_a": "-f",
+			"answer_b": "-c",
+			"answer_c": "-d",
+			"answer_d": "\\0",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 747,
+		"question": "How to get all resources with simple output (just the resource name) in Kubernetes?",
+		"description": null,
+		"answers": {
+			"answer_a": "kubectl api -o name",
+			"answer_b": "kubectl api-resources name",
+			"answer_c": "kubectl api-resources -o name",
+			"answer_d": "kubectl api -r name",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 703,
+		"question": "How can you list only the directories in your current directory using ls command?",
+		"description": null,
+		"answers": {
+			"answer_a": "ls -l|grep “^d”",
+			"answer_b": "ls -ld",
+			"answer_c": "ls --dir",
+			"answer_d": "ls -d",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			},
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 19,
+		"question": "Crontab gives administrators the ability to do what?",
+		"description": null,
+		"answers": {
+			"answer_a": "Identify users on the system",
+			"answer_b": "Call up a list of open files",
+			"answer_c": "View the status of Linux kernel modules",
+			"answer_d": "Set up scheduled tasks on a system",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_d",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 42,
+		"question": "Which of the answers listed below refers to a Linux command that allows for assuming the identity of a different system user and executing commands with security privileges of that user account?",
+		"description": null,
+		"answers": {
+			"answer_a": "sync",
+			"answer_b": "id",
+			"answer_c": "usermod",
+			"answer_d": "su",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_d",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 706,
+		"question": "What is the purpose of ‘at’ command?",
+		"description": null,
+		"answers": {
+			"answer_a": "To execute a command/commands at a specific time.",
+			"answer_b": "To execute a command/commands at a specific request.",
+			"answer_c": "To execute a command/commands on a specific condition.",
+			"answer_d": "To execute a command/commands only when the user has logged in.",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			},
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 696,
+		"question": "Which command can be used to execute a command/s repeatedly for the given schedule?",
+		"description": null,
+		"answers": {
+			"answer_a": "crontab",
+			"answer_b": "while",
+			"answer_c": "for",
+			"answer_d": "set",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			},
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 32,
+		"question": "Which command is used to display the default permissions for newly created files?",
+		"description": null,
+		"answers": {
+			"answer_a": "umask",
+			"answer_b": "priority",
+			"answer_c": "nice",
+			"answer_d": "perm",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 704,
+		"question": "What is LILO w.r.t linux?",
+		"description": null,
+		"answers": {
+			"answer_a": "LILO means linux loader, which loads the kernel into memory and starts the OS.",
+			"answer_b": "LILO means linux loader, which loads the OS into memory and starts the GUI.",
+			"answer_c": "LILO means linux loader, which loads the GUI into memory so the user can see what's going on.",
+			"answer_d": "LILO means linux loader, which loads the software into memory and starts the kernel then the OS.",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 700,
+		"question": "Explain the purpose of nohup command.",
+		"description": null,
+		"answers": {
+			"answer_a": "To keep the command running even after the user who issues the command has logged out.",
+			"answer_b": "To start the command after the user who issues the command has logged out.",
+			"answer_c": "To start the command after a certain statement has been approved.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			},
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 734,
+		"question": "When patching resources in Kubernetes, how to partially update a node?",
+		"description": null,
+		"answers": {
+			"answer_a": "kubectl patch node k8s-node-1 -p '{\"spec\":{\"unschedulable\":false}}'",
+			"answer_b": "kubectl patch node k8s-node-1 -p '{\"patch\":{\"unschedulable\":true}}'",
+			"answer_c": "kubectl patch node k8s-node-1 -p '{\"spec\":{\"unschedulable\":true}}'",
+			"answer_d": "kubectl patch node k8s-node-1 -pr '{\"spec\":{\"unschedulable\":true}}'",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 754,
+		"question": "Which command will duplicate each line in a file?",
+		"description": null,
+		"answers": {
+			"answer_a": "sed 'p' < filename",
+			"answer_b": "sed 'd' < filename",
+			"answer_c": "cp 'p' < filename",
+			"answer_d": "cp 'd' < filename",
+			"answer_e": "cat 'p' < filename",
+			"answer_f": "cat 'd' < filename"
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			},
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 736,
+		"question": "How to scale a replicaset named 'foo' to 3?",
+		"description": null,
+		"answers": {
+			"answer_a": "kubectl scale --replicas=3 rs/foo",
+			"answer_b": "kubectl up --replicas=3 rs/foo",
+			"answer_c": "kubectl update --replicas=3 rs/foo",
+			"answer_d": "kubectl deploy  --replicas=3 rs/foo",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 25,
+		"question": "What are the most common Linux boot managers?",
+		"description": null,
+		"answers": {
+			"answer_a": "Bootmanager/Bootflag",
+			"answer_b": "Bootmand/MBR",
+			"answer_c": "LILO/GRUB",
+			"answer_d": "Bootd/init.d",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_c",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 22,
+		"question": "tcpdump is a packet-sniffing Linux command that offers administrators the ability to monitor what?",
+		"description": null,
+		"answers": {
+			"answer_a": "Server performance",
+			"answer_b": "Network traffic and activity",
+			"answer_c": "Application performance",
+			"answer_d": "Files and directories",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_b",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 738,
+		"question": "How to delete all pods in Kubernetes matching the awk pattern1 or pattern2?",
+		"description": null,
+		"answers": {
+			"answer_a": "kubectl get nodes -n myns --no-headers=true | awk '/pattern1|pattern2/{print $1}' | xargs  kubectl delete -n myns pod",
+			"answer_b": "kubectl print pods  -n myns --no-headers=true | awk '/pattern1/2|pattern2/{print $1}' | xargs  kubectl delete -n myns pod",
+			"answer_c": "kubectl print pods  -n myns --no-headers=true | awk '/pattern1/2|pattern2/{print $1}' | xargs  kubectl remove -n myns pod",
+			"answer_d": "kubectl get pods  -n myns --no-headers=true | awk '/pattern1|pattern2/{print $1}' | xargs  kubectl delete -n myns pod",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 664,
+		"question": "Choose the example for block special file",
+		"description": null,
+		"answers": {
+			"answer_a": "DVD-ROM",
+			"answer_b": "Serial modem",
+			"answer_c": "Console terminal",
+			"answer_d": "Virtual terminal",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 687,
+		"question": "Which command can be used by the administrator to bring the system into single user mode?",
+		"description": null,
+		"answers": {
+			"answer_a": "init s",
+			"answer_b": "single",
+			"answer_c": "init",
+			"answer_d": "single s",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			},
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 710,
+		"question": "Distinguish between cmp and diff commands?",
+		"description": null,
+		"answers": {
+			"answer_a": "‘diff’ shows all the differences from two file whereas ‘cmp’ shows the only the first occurring difference. The said is applicable only if differences between the files do exist.",
+			"answer_b": "‘cmp’ shows all the differences from two file whereas ‘diff’ shows the only the first occurring difference. The said is applicable only if differences between the files do exist.",
+			"answer_c": "‘diff’ shows the last difference from two file whereas ‘cmp’ shows the only the first occurring difference. The said is applicable only if differences between the files do exist.",
+			"answer_d": "‘cmp’ shows the last difference from two file whereas ‘diff’ shows the only the first occurring difference. The said is applicable only if differences between the files do exist.",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "BASH"
+			},
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 578,
+		"question": "How do we access the value of 'd' later? $a = array(     'a',     3 => 'b',     1 => 'c',     'd' );",
+		"description": null,
+		"answers": {
+			"answer_a": "$a[0]",
+			"answer_b": "$a[3]",
+			"answer_c": "$a[2]",
+			"answer_d": "$a[1]",
+			"answer_e": "$a[4]",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "true",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "PHP"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 36,
+		"question": "A virtual filesystem created dynamically by Linux that contains information about system resources is:",
+		"description": null,
+		"answers": {
+			"answer_a": "/proc",
+			"answer_b": "/boot",
+			"answer_c": "/mkdir",
+			"answer_d": "/system",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 24,
+		"question": "Systemd replaced which Linux command for mounting and automounting file systems?",
+		"description": null,
+		"answers": {
+			"answer_a": "/etc/fstab and autofs",
+			"answer_b": "/esc/fdtab and autff",
+			"answer_c": "/etc/ftab and autofs",
+			"answer_d": "/etc/fstab and autom",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "true",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 735,
+		"question": "In Kubernetes how to create a service for a replicated Nginx, which serves on port 80 and connects to the containers on port 8000?",
+		"description": null,
+		"answers": {
+			"answer_a": "kubectl expose rc nginx --port=8080 --target-port=80",
+			"answer_b": "kubectl rc nginx --port=80 --target-port=8000",
+			"answer_c": "kubectl expose nginx --port=80 --target-port=8000",
+			"answer_d": "kubectl expose rc nginx --port=80 --target-port=8000",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Kubernetes"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 17,
+		"question": "Which of the following runlevel will reboot the system?",
+		"description": null,
+		"answers": {
+			"answer_a": "5",
+			"answer_b": "6",
+			"answer_c": "3",
+			"answer_d": "4",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_b",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 50,
+		"question": "A low-level utility that can be used for creating/restoring filesystem backup copies in Linux is called:",
+		"description": null,
+		"answers": {
+			"answer_a": "fsutil",
+			"answer_b": "diskpart",
+			"answer_c": "dd",
+			"answer_d": "format",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_c",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 23,
+		"question": "What Linux command is the modern replacement for Telnet, and allows admins to connect to a specific network port?",
+		"description": null,
+		"answers": {
+			"answer_a": "dhclient",
+			"answer_b": "ethtool",
+			"answer_c": "ip",
+			"answer_d": "ncat",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_d",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "Linux"
+			}
+		],
+		"category": "Linux",
+		"difficulty": "Hard"
+	}
+]

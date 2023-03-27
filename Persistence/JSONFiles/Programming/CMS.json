@@ -1,0 +1,1506 @@
+[
+	{
+		"id": 317,
+		"question": "How many Posts and Pages can you have?",
+		"description": null,
+		"answers": {
+			"answer_a": "I can have 100 posts and 100 pages",
+			"answer_b": "Depends on the theme I'm using.",
+			"answer_c": "There is no limit on the number of posts or pages you can have.",
+			"answer_d": "There is no limit on the number of posts but I can have only certain amount of pages.",
+			"answer_e": "Depending on your plan, you can have a different amount of pages and posts.",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 313,
+		"question": "How can you get involved with WordPress?",
+		"description": null,
+		"answers": {
+			"answer_a": "Attend Word Camp",
+			"answer_b": "Edit the Codex (documentation)",
+			"answer_c": "Help in the Forums",
+			"answer_d": "All of these",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 278,
+		"question": "Which of the following is a WordPress function used to execute a database query?",
+		"description": null,
+		"answers": {
+			"answer_a": "<?php $wpdb->run_query('query'); ?>",
+			"answer_b": "<?php $wpdb->fetch('query'); ?>",
+			"answer_c": "<?php $wpdb->mysql_query('query'); ?>",
+			"answer_d": "<?php $wpdb->query('query'); ?>",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 309,
+		"question": "How can you restore the WordPress core files?",
+		"description": null,
+		"answers": {
+			"answer_a": "The core files can be downloaded back from wordpress.org site.",
+			"answer_b": "The core files can be downloaded back from Database.",
+			"answer_c": "The core files can be downloaded back from your local machine as long as you have a backup",
+			"answer_d": "The core files can be fetched via your dashboard",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 321,
+		"question": "You can change your Wordpress themes using?",
+		"description": null,
+		"answers": {
+			"answer_a": "Wordpress Appearance",
+			"answer_b": "Wordpress Settings",
+			"answer_c": "Wordpress Plugins",
+			"answer_d": "wp-config.php file",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 271,
+		"question": "What are the disadvantages of WordPress?",
+		"description": null,
+		"answers": {
+			"answer_a": "Only utilizes PHP",
+			"answer_b": "Use of multiple plugins can make the website heavy to load and slow",
+			"answer_c": "Modifying images and tables is difficult.",
+			"answer_d": "All of the mentioned.",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 320,
+		"question": "Which file is the single most important file in Wordpress?",
+		"description": null,
+		"answers": {
+			"answer_a": "header.php",
+			"answer_b": "wp-setting.php",
+			"answer_c": "wp-config.php",
+			"answer_d": "page.php",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 296,
+		"question": "Where is thewp_config.php file located?",
+		"description": null,
+		"answers": {
+			"answer_a": "Inside the wp-admin folder",
+			"answer_b": "Inside the wp-content folder",
+			"answer_c": "In the root directory of the WordPress installation",
+			"answer_d": "In the wp-content/config folder",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 294,
+		"question": "What is a permalink?",
+		"description": null,
+		"answers": {
+			"answer_a": "A popular WordPress Plugin",
+			"answer_b": "The numeric IP address of your WordPress site",
+			"answer_c": "The complete URL of your WordPress site",
+			"answer_d": "Permalinks are the permanent URLs to your individual pages and blog posts, as well as your category and tag archives",
+			"answer_e": "A permalink is the web address used to link to your content.",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "true",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "true",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 314,
+		"question": "What websites can you build with WordPress?",
+		"description": null,
+		"answers": {
+			"answer_a": "Shop",
+			"answer_b": "Blog",
+			"answer_c": "Betting website",
+			"answer_d": "All of the mentioned",
+			"answer_e": "A Learning platform",
+			"answer_f": "News website"
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 322,
+		"question": "Just installed plugin crashes your Wordpress site with no access to the dashboard. What do you do?",
+		"description": null,
+		"answers": {
+			"answer_a": "Rename the specific plugin folder in /wp-content/plugins",
+			"answer_b": "Reinstall Wordpress",
+			"answer_c": "Delete all plugins from /wp-content/plugins folder",
+			"answer_d": "Reinstall the database",
+			"answer_e": "Rename the specific plugin folder in /wp-includes/plugins",
+			"answer_f": "Rename the specific plugin folder in /wp-admin/plugins"
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 297,
+		"question": "In which programming language WordPress is written?",
+		"description": null,
+		"answers": {
+			"answer_a": "Java",
+			"answer_b": "Node",
+			"answer_c": "PHP",
+			"answer_d": "Javascript",
+			"answer_e": "VueJS",
+			"answer_f": "Python"
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 315,
+		"question": "Which color is the official color of the Wordpress.org logo?",
+		"description": null,
+		"answers": {
+			"answer_a": "Yellow",
+			"answer_b": "Purple",
+			"answer_c": "Dark grey",
+			"answer_d": "White",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 305,
+		"question": "What are categories in WordPress.",
+		"description": null,
+		"answers": {
+			"answer_a": "Categories allow a user to divide its content into different sections.",
+			"answer_b": "Categories allow a user to merge its content from different sections.",
+			"answer_c": "Categories allow a user to list out all the contents",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 197,
+		"question": "What is the prefix of WordPress tables by default?",
+		"description": null,
+		"answers": {
+			"answer_a": "wp_ default",
+			"answer_b": "wp_",
+			"answer_c": "wp_ in",
+			"answer_d": "_wp_",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": null,
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 257,
+		"question": "Which CMS powers around 35% of all websites on the internet?",
+		"description": null,
+		"answers": {
+			"answer_a": "WordPress",
+			"answer_b": "Dropal",
+			"answer_c": "Joomla",
+			"answer_d": "Laravel",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 291,
+		"question": "Which relational database does WordPress use?",
+		"description": null,
+		"answers": {
+			"answer_a": "Oracle",
+			"answer_b": "MySQL",
+			"answer_c": "PostgresSQL",
+			"answer_d": "MSSQL SERVER",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 247,
+		"question": "In what case we cannot recommend WordPress to a client?",
+		"description": null,
+		"answers": {
+			"answer_a": "If the client is working on a non-CMS base project",
+			"answer_b": "If a site wants complex or innovative e-commerce",
+			"answer_c": "Sites are requiring custom scripting solutions.",
+			"answer_d": "If the client wants to create a quick e-commerce website",
+			"answer_e": "If the client wants to create a website for puppies or any kind of animals",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "true",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "true",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 319,
+		"question": "What can the Contributor role do?",
+		"description": null,
+		"answers": {
+			"answer_a": "Publish Posts",
+			"answer_b": "Edit Pages",
+			"answer_c": "Edit Posts",
+			"answer_d": "Moderate Comments",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 312,
+		"question": "What is the name of the first page you encounter after logging into your web page?",
+		"description": null,
+		"answers": {
+			"answer_a": "Dashboard",
+			"answer_b": "Security question page",
+			"answer_c": "WP upgrade option",
+			"answer_d": "WPAdmin",
+			"answer_e": "Clientarea",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Easy"
+	},
+	{
+		"id": 274,
+		"question": "What is the difference between the WordPress Address and Site Address settings located in the General Settings area?",
+		"description": null,
+		"answers": {
+			"answer_a": "The WordPress Address is where to look for WordPress plugins, while the Site Address is what will be used as the base for creating URLs for web pages.",
+			"answer_b": "The WordPress Address is where to look for WordPress files, while the Site Address is what will be used as the base for creating URLs for web pages.",
+			"answer_c": "The WordPress Address is where to look for WordPress meta tags , while the Site Address is what will be used as the base for creating URLs for web pages.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": "WordPress Address AND Site Address",
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 245,
+		"question": "Do deactivated plugins slow down a WordPress site?",
+		"description": null,
+		"answers": {
+			"answer_a": "Even deactivated plugins slow down your website",
+			"answer_b": "Deactivated do not plugins slow down your website",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 276,
+		"question": "What do you mean by the custom field in WordPress?",
+		"description": null,
+		"answers": {
+			"answer_a": "Custom fields are also known as request meta. request meta is a feature in WordPress which allows post authors to add additional information at the time writing a post.",
+			"answer_b": "Custom fields are also known as post meta. Post meta is a feature in WordPress which allows post authors to add additional information at the time writing a post.",
+			"answer_c": "Custom fields are also known as get meta. Get meta is a feature in WordPress which allows get authors to add additional information at the time writing a post.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 341,
+		"question": "What is the best way to change table prefix (wp_) before installation in WordPress?",
+		"description": null,
+		"answers": {
+			"answer_a": "Before Installation: In this way, you have to rename your wp_config.php file according to your need through $table_prefix=’wp_’;.",
+			"answer_b": "Before Installation: Through this way, you have to go PHPMyAdmin -> Select your database -> Check all tables -> Add/Update table prefix.",
+			"answer_c": "After Installation: Once you have the database, you can go ahead and change it",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 342,
+		"question": "What are Shortcodes in WordPress and how we can use it?",
+		"description": null,
+		"answers": {
+			"answer_a": "Shortcodes is a specific code that is used to do control loop.",
+			"answer_b": "Shortcodes is a specific code that is used to do recursion.",
+			"answer_c": "Shortcodes is a specific code that is used to do several tasks with less effort. Also, it is synonymous with the shortcut.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 316,
+		"question": "What is the difference between Wordpress Posts and Wordpress Pages?",
+		"description": null,
+		"answers": {
+			"answer_a": "There is absolutely no difference between Posts and Pages.",
+			"answer_b": "Posts are entries listed in reverse chronological order on the site homepage and Pages are static and are not listed by date.",
+			"answer_c": "Pages are entries listed in reverse chronological order on the site homepage and Posts are static and are not listed by date.",
+			"answer_d": "None of the above.",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 281,
+		"question": "What is the function to get website url in wordpress?",
+		"description": null,
+		"answers": {
+			"answer_a": "get_website_url();",
+			"answer_b": "get_site_url();",
+			"answer_c": "get_url();",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 260,
+		"question": "What are meta-tags?",
+		"description": null,
+		"answers": {
+			"answer_a": "Meta-tags are keywords and description used to display website or page information.",
+			"answer_b": "Meta-tags are codes and scripts used to display website or page information.",
+			"answer_c": "Meta-tags are special tages and function used to display website or page information.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 256,
+		"question": "How can you create a static page with WordPress?",
+		"description": null,
+		"answers": {
+			"answer_a": "To create a static page in WordPress, in the page section you have to upload a PHP file to the server in the theme folder, and then select that as your template.",
+			"answer_b": "To create a static page in WordPress, in the page section you have to upload a PERL file to the server in the theme folder, and then select that as your template.",
+			"answer_c": "To create a static page in WordPress, in the page section you have to upload a HTML file to the server in the theme folder, and then select that as your template.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 343,
+		"question": "What is the Ping of Death?",
+		"description": null,
+		"answers": {
+			"answer_a": "The Ping of Death is an occurrence when sending packets are reassembled, are too large for the system to understand.",
+			"answer_b": "The Ping of Death is capturing and deciphering traffic on a network.",
+			"answer_c": "The Ping of Death can be set in wordpress under admin settings.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 270,
+		"question": "What is a WordPress taxonomy?",
+		"description": null,
+		"answers": {
+			"answer_a": "In WordPress, a “taxonomy” is a grouping mechanism for some posts (or links or custom post types).",
+			"answer_b": "In WordPress, a “taxonomy” is a grouping mechanism for some plugins .",
+			"answer_c": "In WordPress, a “taxonomy” is a grouping mechanism for some pages .",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 264,
+		"question": "Is it a good practice to edit the WordPress core files?",
+		"description": null,
+		"answers": {
+			"answer_a": "No, because your changes will be lost during the next WordPress update",
+			"answer_b": "Yes, you can change the core files without any further compilations",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 277,
+		"question": "In WordPress, objects are passed by value or by reference.",
+		"description": null,
+		"answers": {
+			"answer_a": "In WordPress, all objects are passed by value.",
+			"answer_b": "In WordPress, all objects are passed by reference.",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 311,
+		"question": "What are template tags in WordPress?",
+		"description": null,
+		"answers": {
+			"answer_a": "Template tags are used within themes to retrieve content from your database.",
+			"answer_b": "Template tags are used within themes to retrieve content from your folder.",
+			"answer_c": "Template tags are used within themes to retrieve content from your plugins.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 265,
+		"question": "Where is WordPress content stored?",
+		"description": null,
+		"answers": {
+			"answer_a": "WordPress stores it's content in a MySQL database on the server.",
+			"answer_b": "WordPress stores it's content in the wp-content folder",
+			"answer_c": "WordPress stores it's content in a MySQL database on the server.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 273,
+		"question": "Which ‘meta box’ is not hidden by default on Post and Page screens?",
+		"description": null,
+		"answers": {
+			"answer_a": "Featured Image is the meta box that is not hidden by default on Post and Page screens.",
+			"answer_b": "Featured Image is the child box that is hidden by default on Post and Page screens.",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 282,
+		"question": "Tick all the rules which need to be followed while developing a WordPress Plugin?",
+		"description": null,
+		"answers": {
+			"answer_a": "Create a unique name.",
+			"answer_b": "Create the folder of Plugin.",
+			"answer_c": "Create a sub-folder for PHP files, translations, and assets.",
+			"answer_d": "Create and install script.",
+			"answer_e": "Create the main plug-in file and fill up the header information.",
+			"answer_f": null
+		},
+		"multiple_correct_answers": "true",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "true",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "true",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 302,
+		"question": "How can you edit a WordPress comment?",
+		"description": null,
+		"answers": {
+			"answer_a": "You can edit WordPress comment using the command. From the panel, under the Comments option, select edit to edit a comment.",
+			"answer_b": "You can edit WordPress comment using the dashboard. From the panel, under the Comments option, select edit to edit a comment.",
+			"answer_c": "You can edit WordPress comment using the profile. From the panel, under the Comments option, select edit to edit a comment.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 308,
+		"question": "Which licensing authority is responsible for WordPress?",
+		"description": null,
+		"answers": {
+			"answer_a": "GPLv2 (GNU General Public License)",
+			"answer_b": "MIT license",
+			"answer_c": "GPU",
+			"answer_d": "GWPL",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 289,
+		"question": "How many types of plans are available in wordpress by default?",
+		"description": null,
+		"answers": {
+			"answer_a": "4",
+			"answer_b": "6",
+			"answer_c": "2",
+			"answer_d": "3",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Medium"
+	},
+	{
+		"id": 267,
+		"question": "What is an action hook?",
+		"description": null,
+		"answers": {
+			"answer_a": "A hook that is triggered at a specific time when WordPress is running and lets you take an action.",
+			"answer_b": "A hook that is triggered at a specific time when WordPress is not running so it lets you take an action.",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 285,
+		"question": "What is the correct syntax of the usermeta function in Wordpress?",
+		"description": null,
+		"answers": {
+			"answer_a": "get_user( int $user_id, string $key = '', bool $single = true )",
+			"answer_b": "get_user_meta( int $user_id, string $key = '', bool $single = false )",
+			"answer_c": "get_user_meta( int $user_id, string $key = '', bool $single = true )",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 261,
+		"question": "What should one use for plugin development — custom post types or custom database tables?",
+		"description": null,
+		"answers": {
+			"answer_a": "custom post type",
+			"answer_b": "custom database tables",
+			"answer_c": "There is no specific preference for plugin development; it depends on what type of plugin’s one has to develop.",
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 275,
+		"question": "What are Importers in WordPress?",
+		"description": null,
+		"answers": {
+			"answer_a": "Importers are linking files that provide the functionality to export a bulk XML file with any number of records.",
+			"answer_b": "Importers are plugins that provide the functionality to import a bulk XML file with any number of records.",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 323,
+		"question": "Where in Wordpress can you discourage search engines from indexing this site?",
+		"description": null,
+		"answers": {
+			"answer_a": "From the Plugins Section",
+			"answer_b": "From the Tools->Export Section",
+			"answer_c": "From the Users Section",
+			"answer_d": "From the General->Reading Section",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 269,
+		"question": "How do you enable debug mode in WP?",
+		"description": null,
+		"answers": {
+			"answer_a": "You can enable debug mode in WP by editing wp-config.php file and changing WP_DEBUG constant value to true",
+			"answer_b": "You can enable debug mode in WP by editing wp-config.html file and changing WP_DEBUG constant value to true",
+			"answer_c": null,
+			"answer_d": null,
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Hard"
+	},
+	{
+		"id": 280,
+		"question": "Which of the listed actions and filter hooks are functions in WordPress?",
+		"description": null,
+		"answers": {
+			"answer_a": "has_filter() and has_action()",
+			"answer_b": "apply_filters_ref_array() and do_action_ref_array()",
+			"answer_c": "doing_filter() and doing_action()",
+			"answer_d": "open_filter() and close_action()",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"multiple_correct_answers": "true",
+		"correct_answers": {
+			"answer_a_correct": "true",
+			"answer_b_correct": "true",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
+		"correct_answer": "answer_a",
+		"explanation": null,
+		"tip": null,
+		"tags": [
+			{
+				"name": "WordPress"
+			}
+		],
+		"category": "CMS",
+		"difficulty": "Hard"
+	}
+]
